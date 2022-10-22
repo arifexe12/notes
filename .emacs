@@ -37,5 +37,7 @@
 
 (add-hook 'after-init-file  (my-init-config))
 
+(global-set-key (kbd "C-x w") (my-init-config))
+
 
 
