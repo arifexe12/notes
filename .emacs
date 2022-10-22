@@ -42,4 +42,9 @@
 				(find-file-other-window "~/Desktop/notes/data.org" nil))  )
 
 
+(global-set-key (kbd "s-1") (lambda() (interactive) (setq x (buffer-substring (region-beginning)  (region-end)))
+				(org-insert-link "link" (concat "file:data.org::" x)  x)
+				))  
+
+
 
