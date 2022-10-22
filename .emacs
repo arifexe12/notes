@@ -16,7 +16,7 @@
 ;;(add-hook 'org-mode-hook 'display-line-numbers-mode)
 (set-face-attribute 'default nil :height 165)
 ;;(add-hook 'after-init-file (delete-other-windows)
-(global-set-key (kbd "C-x g")  ( lambda() (interactive) (call-process-shell-command  "~/Desktop/notes/upload.sh" nil (get-buffer "*Messages*") t ) ) )
+(global-set-key (kbd "C-x g")  ( lambda() (interactive) (call-process-shell-command  "~/Desktop/notes/upload.sh" nil (messages-buffer) t ) ) )
 (tool-bar-mode -1)
 (global-set-key (kbd "M-]") 'shrink-window-horizontally)
 (global-set-key (kbd "M-[") 'enlarge-window-horizontally)
