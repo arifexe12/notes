@@ -37,7 +37,9 @@
 
 (add-hook 'after-init-file  (my-init-config))
 
-(global-set-key (kbd "C-x w") (my-init-config))
+(global-set-key (kbd "C-x w") (lambda() (interactive) (delete-other-windows)
+				(find-file "~/Desktop/notes/index.org" nil)(split-window-right 22)
+				(find-file-other-window "~/Desktop/notes/data.org" nil))  )
 
 
 
