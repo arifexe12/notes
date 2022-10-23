@@ -1,3 +1,4 @@
+(global-display-line-numbers-mode)
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
@@ -31,20 +32,27 @@
   (interactive)
   (global-display-line-numbers-mode)
   (delete-other-windows)
-  (find-file "~/Desktop/notes/index.org" nil)
+  	(if (string-equal system-type "windows-nt" )
+				    (find-file "C:/Users/50766/Desktop/notes/index.org" nil)   
+				(find-file "~/Desktop/notes/index.org" nil))
   (split-window-right 22)
-  (find-file-other-window "~/Desktop/notes/data.org" nil))
+  	(if (string-equal system-type "windows-nt" )
+				    (find-file-other-window "C:/Users/50766/Desktop/notes/data.org" nil)   
+				(find-file-other-window "~/Desktop/notes/data.org" nil)))
 
 (add-hook 'after-init-file  (my-init-config))
 
 (global-set-key (kbd "C-x w") (lambda() (interactive) (delete-other-windows)
-				(find-file "~/Desktop/notes/index.org" nil)(split-window-right 22)
-				(find-file-other-window "~/Desktop/notes/data.org" nil))  )
+				(if (string-equal system-type "windows-nt" )
+				    (find-file "C:/Users/50766/Desktop/notes/index.org" nil)   
+				(find-file "~/Desktop/notes/index.org" nil))
+				(split-window-right 22)
+					(if (string-equal system-type "windows-nt" )
+				    (find-file-other-window "C:/Users/50766/Desktop/notes/data.org" nil)   
+				(find-file-other-window "~/Desktop/notes/data.org" nil))
+			       ))  
 
 
 (global-set-key (kbd "s-1") (lambda() (interactive) (setq x (buffer-substring (region-beginning)  (region-end)))
 				(org-insert-link "link" (concat "file:data.org::" x)  x)
 				))  
-
-
-
