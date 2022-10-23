@@ -18,7 +18,11 @@
 (set-face-attribute 'default nil :height 165)
 ;;(add-hook 'after-init-file (delete-other-windows)
 (global-set-key (kbd "C-x g")  ( lambda() (interactive)
-		  (call-process-shell-command  "~/Desktop/notes/upload.sh" nil (get-buffer-create "Git Output") t ) ) )
+				 ( if (string-equal system-type "windows-nt" )
+ (call-process-shell-command  "C:/Users/50766/AppData/Local/Programs/Git/git-bash.exe" "C:/Users/50766/Desktop/notes/upload.sh" (get-buffer-create "Git Output") t )
+(call-process-shell-command  "~/Desktop/notes/upload.sh" nil (get-buffer-create "Git Output") t )
+
+) ))
 (tool-bar-mode -1)
 (global-set-key (kbd "M-]") 'shrink-window-horizontally)
 (global-set-key (kbd "M-[") 'enlarge-window-horizontally)
@@ -53,6 +57,6 @@
 			       ))  
 
 
-(global-set-key (kbd "s-1") (lambda() (interactive) (setq x (buffer-substring (region-beginning)  (region-end)))
+(global-set-key (kbd "C-1") (lambda() (interactive) (setq x (buffer-substring (region-beginning)  (region-end)))
 				(org-insert-link "link" (concat "file:data.org::" x)  x)
 				))  
