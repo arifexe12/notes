@@ -11,17 +11,22 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  )
- ;;(delete-other-windows)
+(setq org-adapt-indentation t
+      org-hide-leading-stars t
+      org-odd-levels-only t)
+;;(delete-other-windows)
 (setq inhibit-startup-message  t)
 ;;(add-hook 'org-mode-hook 'display-line-numbers-mode)
 (set-face-attribute 'default nil :height 165)
 ;;(add-hook 'after-init-file (delete-other-windows)
 (global-set-key (kbd "C-x g")  ( lambda() (interactive)
-		  (call-process-shell-command  "~/Desktop/notes/upload.sh" nil (get-buffer-create "Git Output") t ) ) )
+				 (call-process-shell-command  "~/Desktop/notes/upload.sh" nil (get-buffer-create "Git Output") t ) ) )
 (tool-bar-mode -1)
 (global-set-key (kbd "M-]") 'shrink-window-horizontally)
 (global-set-key (kbd "M-[") 'enlarge-window-horizontally)
 (global-set-key (kbd "s-r") 'eval-buffer)
+(global-set-key (kbd "C-M-x") 'set-mark-command)
+(global-set-key (kbd "C-M-g") 'fill-region)
 ;;(add-hook 'after-init-file (find-file "~/Desktop/notes/index.org" nil))
 ;;(add-hook 'after-find-file (split-window-right 22))
 ;;(add-hook 'after-init-file (find-file-other-window "~/Desktop/notes/data.org" nil))
@@ -42,9 +47,13 @@
 				(find-file-other-window "~/Desktop/notes/data.org" nil))  )
 
 
-(global-set-key (kbd "s-1") (lambda() (interactive) (setq x (buffer-substring (region-beginning)  (region-end)))
-				(org-insert-link "link" (concat "file:data.org::" x)  x)
-				))  
+(global-set-key (kbd "C-1") (lambda() (interactive) (setq x (buffer-substring (region-beginning)  (region-end)))
+			      (org-insert-link "link" (concat "file:data.org::" x)  x)
+			      ))  
+
+
+
+
 
 
 
