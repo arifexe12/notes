@@ -88,3 +88,24 @@
 			      (org-insert-link "link" (concat "file:data.org::" x)  x)
 			      ))
 
+
+(global-set-key (kbd "C-x e") (lambda() (interactive)
+				(end-of-line) (next-line)
+				(beginning-of-line)
+			        (set-mark-command nil)
+				(org-forward-paragraph)
+				(indent-rigidly (region-beginning) (region-end) 4)
+              
+
+				
+				))
+
+
+(global-set-key (kbd "C-x i") (lambda() (interactive)
+				
+				(indent-rigidly (region-beginning) (region-end) 4)
+              
+
+				
+			      ))
+
