@@ -26,7 +26,6 @@
 |             |          |                      |                   |                   |              |
 |-------------+----------+----------------------+-------------------+-------------------+--------------|
 
-
 * ইউক্রেন
 1) কিয়েভের মেয়রের নাম  ভিটালি ক্লিসকি ।
 2) ইউক্রেনের প্রধানমন্ত্রী ডেনিস স্মিগাল ।
@@ -3007,3 +3006,32 @@
 
 তবে শর্ত থাকে যে, বাংলা ও ইংরাজী পাঠের মধ্যে বিরোধের ক্ষেত্রে বাংলা পাঠ
 প্রাধান্য পাইবে।
+
+* Central Bank
+- USA   *Federal Reserve System*
+- Lebanon  *Bank of Lebanon/Banque du Liban*
+- Canada *Bank of Canada/Bank Du Canada*
+- Italy *The Bank of Italy*
+- France  *Bank of France/Banque de France*
+- United Kingdom  *Bank of England*
+- South Korea  *Bank of Korea*
+- China  *People's Bank of China*
+- India  *Reserve Bank of India*
+- Sri Lanka  *Central Bank of Sri Lanka*
+- Russia  *Central Bank of Russian Federation (CBR)*
+- Ukraine  *National Bank of Ukraine*
+- Qatar *Qatar Central Bank*
+- Venezuela *The central Bank of Venezuela*
+- Turkey *Central Bank of the Republic of Turkey (CBRT)*
+- Iran  *Central Bank of Islamic Republic of Iran*
+- Saudi Arabia  *Saudi Central Bank*
+- Japan *The Bank of Japan*
+- Israel  *The Bank of Israel*
+- Malaysia *Central Bank of Malaysia/Bank Negara Malaysia*
+- Philippines *Central Bank of Philippines/Bangko Sentral ng Pilipinas*
+- Taiwan *Central Bank of the Republic of China (Taiwan)*
+- Brunei  *Brunei Darussalam Central Bank*
+- United Arab Emirates *Central Bank of the UAE*
+- Barbados *Central Bank of Barbados*
+- Mexico *The Bank of Mexico/Banco de Mexico*
+- Maldives *Maldives Monetary Authority*
