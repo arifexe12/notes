@@ -574,7 +574,7 @@
     যে সকল এলাকা লইয়া পূর্ব পাকিস্তান গঠিত ছিল ৪ এবং সংবিধান (তৃতীয় সংশোধন)
     আইন, ১৯৭৪-এ অন্তর্ভুক্ত এলাকা বলিয়া উল্লিখিত এলাকা, কিন্তু উক্ত আইনে বহির্ভূত
     এলাকা বলিয়া উল্লিখিত এলাকা তদ্‌বহির্ভূত; এবং।
-
+ 
 (খ) যে সকল এলাকা পরবর্তীকালে বাংলাদেশের সীমানাভুক্ত হইতে পারে৷
 
 ** ২ক৷ রাষ্ট্রধর্ম
@@ -3246,4 +3246,7 @@
 
 * Have to Study
 
-1) [[https://magoosh.com/gmat/gmat-probability-questions/][probability]] 
+1) [[https://magoosh.com/gmat/gmat-probability-questions/][probability]]
+2) [[https://www.youtube.com/watch?v=74Hw-fS0ivI&t=33s][Divisibility]]
+3) [[https://www.gmatprepnow.com/module/gmat-probability/video/754][Probability Practice GMAT Club]]
+  
