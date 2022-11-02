@@ -23,6 +23,7 @@
   1) রুশ প্রধানমন্ত্রী মিখাইল মিশুস্তিন
   2) খেরসনের রাশিয়া কতৃক নিয়োগকৃত কর্মকর্তা ভ্লাদিমির সালদো ।
   3) রাশিয়ার রাষ্ট্রীয় পারমাণবিক শক্তি করপোরেশনের (রোসাটম) মহাপরিচালক অ্যালেক্সি লিখাচেভ ।
+  
 
 * নোবেল পুরস্কার
 
@@ -128,26 +129,6 @@
  Standing thin legged like elderly nuns
  small bodied hands to their mouths in prayer
  Five months small food since they settled there
-
-* SDG 17 Goals
-
- 1) No Poverty
- 2) Zero Hunger
- 3) Good Health and Well-being
- 4) Quality Education
- 5) Gender Equality
- 6) Clean Water and Sanitation
- 7) Affordable and Clean Energy
- 8) Decent Work and Economic Growth
- 9) Industry, Innovation and Infrastructure
- 10) Reduced Inequality
- 11) Sustainable Cities and Communities
- 12) Responsible Consumption and Production
- 13) Climate Action
- 14) Life Below Water
- 15) Life on Land
- 16) Peace, Justice and Strong Institutions
- 17) Partnerships to achieve the Goal
 
 * সংবিধান সংশোধনী সমূহ
 ** প্রথম সংশোধনী: যুদ্ধাপরাধীদের বিচার
@@ -434,6 +415,26 @@
 ** সপ্তদশ সংশোধনী: নারী আসন
 এই সংশোধনীর মাধ্যমে ৫০টি সংরক্ষিত নারী আসন আরও ২৫ বছর বহাল
 রাখার বিধান আনা হয়েছে।
+
+* SDG 17 Goals
+
+ 1) No Poverty
+ 2) Zero Hunger
+ 3) Good Health and Well-being
+ 4) Quality Education
+ 5) Gender Equality
+ 6) Clean Water and Sanitation
+ 7) Affordable and Clean Energy
+ 8) Decent Work and Economic Growth
+ 9) Industry, Innovation and Infrastructure
+ 10) Reduced Inequality
+ 11) Sustainable Cities and Communities
+ 12) Responsible Consumption and Production
+ 13) Climate Action
+ 14) Life Below Water
+ 15) Life on Land
+ 16) Peace, Justice and Strong Institutions
+ 17) Partnerships to achieve the Goal
 
 * সংবিধানের তফসিল সমূহ
 
@@ -3061,7 +3062,7 @@
 - [X] ঈশ্বরচন্দ্র বিদ্যাসাগর (১৮২০-১৮৯১)
 - [X] মাইকেল মধুসূদন দত্ত (১৮২৪- ১৮৭৩)
 - [X] রবীন্দ্রনাথ ঠাকুর (১৮৬১-১৯৪১)
-- [ ] দীনবন্ধু মিত্র ( ১৮৩০-১৮৭৩)
+- [ ] দীনবন্ধু মিত্র (১৮৩০-১৮৭৩)
 - [X] কাজী নজরুল ইসলাম (১৮৯৯ – ১৯৭৬)
 - [X] জসীম উদ্দীন (১৯০৩-১৯৭৬)
 - [X] ফররুক আহমদ (১৯১৮-১৯৭৪)
