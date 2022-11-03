@@ -3244,10 +3244,177 @@
 বা সমঝোতা স্মারক সই হয়েছে, সেগুলো দীর্ঘসূত্রতার কবলে পড়তে পারে বলে শঙ্কার
 কথা জানিয়েছে পররাষ্ট্র মন্ত্রণালয়।
 
-* Have to Study
+* Have to Read
 
-1) [[https://magoosh.com/gmat/gmat-probability-questions/][probability]]
-2) [[https://www.youtube.com/watch?v=74Hw-fS0ivI&t=33s][Divisibility]]
-3) [[https://www.gmatprepnow.com/module/gmat-probability/video/754][Probability Practice GMAT Club]]
+1) [[https://magoosh.com/gmat/gmat-probability-questions/][Probability]]
+2) [[HTTPS://WWW.YOUTUBE.COM/WATCH?V=74HW-FS0IVI&T=33S][Divisibilit]]
+3) [[Https://WWW.gmatprepnow.com/module/gmat-probability/video/754][Probability practice gmat club]]
 4) [[https://www.prothomalo.com/business/wjhmt1mvri][রপ্তানি ও প্রবাসী আয় আয় কমল টানা দুই মাস]]
   
+* Important Banking Terms
+
+  - ADB *Asian Development Bank*
+  - AGM  *Annual General Meeting*
+  - ALCO *Assests Liability Committiee*
+  - ATM *Automated teller machine*
+  - BACH *Bangladesh automated Clearing House*
+  - BACPS *Bangladseh Automated Cheque Processing System*
+  - BALCO *Branch Anti-Money Laundering Compliance Office*
+  - BB *Bangladesh Bank*
+  - BCP  *Basel Core Principle*
+  - BEFTN *Bangladesh Electronic Fund Transfer Network*
+  - BRPD *Banking Regulatory Policy Department*
+  - CAD *Credit Administrative Department*
+  - CAMELS *Capital Assests Management Earning Liquidity Securities Annalysis*
+  - CAR *capital Adequecy Ratio*
+  - CBA *Collecting Barganing Agent*
+  - CCU *Central CompliUnit*
+  - CIB *Credit Information bureau*
+  - CIF *Customer Information Form*
+  - COI *Control Of Insurance*
+  - CRAB *Credit Rating Agency of Bangladesh*
+  - CRISL *Credit rating Information service Ltd*
+  - CRM  *Credit Risk Management*
+  - CRR *Cash Reserve Requirement*
+  - CTR  *Cash Trabsaction Report*
+  - DD *Demand Draft*
+  - DDA *Direct Deposit Access*
+  - DMB  *Deposit Money Bank*
+  - DSCR  *Debth Service Gover Ratio*
+  - EFT  *Elctronic Fund Transfer*
+  - EGM  *Extra- ordinary General Meeting*
+  - EPB  *Export Information Bureau*
+  - EPB  *Export Promotion Bureau*
+  - EPS *Earning Per Share*
+  - FDA  *Fixed Deposit Account*
+  - FDBP  *Foreign Development Bill Purchase*
+  - FDD  *Foreign Demand Draft*
+  - FDD  *Foreign Demand Draft*
+  - FIs *Financial Institutions*
+  - FIU  *Financial Intelligent Unit*
+  - FSRP  *Financial Sector Reform Project*
+  - FSS  *Financial Spread Sheet*
+  - IBC  *Inward Bill For Collection*
+  - ICC  *International Chamber of Commerce*
+  - ICDEP  *Interest During Construction Period*
+  - IMF *International Monetary Fund*
+  - IPO  *Initial Public Offering*
+  - KYC *Know Your Customer*
+  - LAAB *Laon Against Accepted Bill*
+  - LDBP *Local Development Bill Purchase*
+  - LIM+ *Laon against Imported Merchandise*
+  - LRA+ *Lending Risk Annalysis*
+  - LTR  *Loan Against Trust Receipt*
+  - LTV *Loan To value*
+  - MDGs *Millennium Development Goals*
+  - MICR  *Magnetic Ink Character Recognition*
+  - MRA *Micro-credit Regulatory Ratio*
+  - MTCN  *Moneu Trabsfer Control number*
+  - MTD  *Money Term Deposit Account*
+  - NFCD *Non Resident Foreign Currency deposit*
+  - NIM *New Issue Market*
+  - NPL  *Non Performing Loan*
+  - NPL  *Non Performing Loan Account*
+  - NPV  *Net Present value*
+  - OBC  *outward Bill for Collection*
+  - PDC+  *Product development Council*
+  - PES  *Price Earning Ratio*
+  - POS  *Point Of Sale*
+  - REER *Real Effecting Exchange Rate*
+  - Repo *Re-purchase*
+  - RJSC  *Registrar of Joint Stock Company*
+  - RTGs *real Time Gross Settlement*
+  - RWA *Risk weighted Assest*
+  - SBS *Schedule Banking Statistics*
+  - SEC *Securities and Exchange commission*
+  - SLR *Statutory liquidity ratio*
+  - SMA *Special Mention Account*
+  - SS  *Sub-standard*
+  - STL *Short Term Loan*
+  - STR *Suspicious Transaction Report*
+  - SWIFT *Society for World Wide Inter financial Telecomunication*
+  
+** Bouncing of a cheque
+When an account has insufficient funds the cheque is is not payable
+and is returned by the bank with a reason “Exceeds arrangement” or
+“funds insufficient”.
+** Bank Rate
+It is the rate of interest charged by a central bank to commercial
+banks on the advances and the loans it extends.
+** Cheque
+It is written by an individual to transfer amount between two accounts
+of the same bank or a different bank and the money is withdrawn form
+the account.
+** Core Banking Solutions (CBS)
+In this all the branches of the bank are connected together and the
+customer can access his/her funds or transactions from any other
+branch.
+** CRR (Cash Reverse Ratio)
+the amount of funds that a bank keep with the RBI. If the percentage
+of CRR increases then the amount with the bank comes down.
+** Debit Card
+It is a card issued by the bank so the customers can withdraw their
+money from their account electronically.
+** Demat Account
+The way in which a bank keeps money in a deposit account in the same
+way the Depository company converts share certificates into electronic
+form and keep them in a Demat account.
+** E-Banking
+It is a type of banking in which we can conduct financial transactions
+electronically. RTGS, Credit cards, Debit cards etc come under this
+category.
+** EFT – (Electronic Fund Transfer)
+In this we use Automatic teller machine, wire transfer and computers
+to move funds between different accounts in different or same bank.
+** Fiscal Deficit
+It is the amount of Funds borrowed by the government to meet the
+expenditures.
+** Initial Public Offering (IPO)
+It is the time when a company makes the first offering of the shares
+to the pubic.
+** Leverage Ratio
+It is a financial ratio which gives us an idea or a measure of a
+company’s ability to meet its financial losses.
+** Liquidity
+It is the ability of converting an investment quickly into cash with
+no loss in value.
+** Market Capitalization
+The product of the share price and number of the company’s outstanding
+ordinary shares.
+** Mortgage
+It is a kind of security which one offers for taking an advance or
+loan from someone.
+** Mutual Fund
+These are investment schemes. It pools money from various investors in
+order to purchase securities.
+** Pass Book
+It is a book where all the bank transactions are recorded.They are
+mainly issued to Current or Savings Bank account holders.
+** Repo Rate
+Commercial banks borrow funds by the RBI if there is any shortage in
+the form of rupees. If this rate increases it becomes expensive to
+borrow money from RBI and vice versa.
+** Savings Bank Account
+It is account of nominal interest which can only be used for personal
+purpose and which has some restrictions on withdrawal.
+** SLR (Statutory Liquidity Ratio)
+It is amount that a commercial bank should have before giving credits
+to its customers which should be either in the form of gold,money or
+bonds.
+** Teller
+He/she is a staff member of the bank who cashes cheques, accepts
+deposits and perform different banking services for the general mass.
+** Universal Banking
+When financial institutions and banks undertake activities related to
+banking like investment, issue of debit and credit card etc then it is
+known as universal banking.
+** Virtual Banking
+Internet banking is sometimes known as virtual banking. It is called
+so because it has no bricks and boundaries. It is controlled by the
+world wide web.
+** Wholesale Banking
+It is similar to retail banking with a slight difference that it
+mainly focuses on the financial needs of the institutional clients and
+the industry.
+** Zero Coupon Bond
+It is a bond that is sold at good discount as it has no coupon.
