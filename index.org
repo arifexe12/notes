@@ -1,24 +1,17 @@
 
+* [[file:data.org:: Important Banking Terms][Important Banking Terms]]
+* [[file:data.org::Have to Read][Have to Read]]
+* [[file:data.org::Central Bank][Central Bank]]
 * [[file:data.org::সাম্প্রতিক তথ্য ][সাম্প্রতিক তথ্য]] 
-
 * [[file:data.org:: নোবেল পুরস্কার][নোবেল পুরস্কার]]
-
 * [[file:data.org::ইউক্রেন][ইউক্রেন]]
-
 * [[file:data.org::দিনাজপুর][দিনাজপুর]]
-
 ** [[file:data.org::মুক্তিযুদ্ধে দিনাজপুর][মুক্তিযুদ্ধে দিনাজপুর]]
-
 * [[file:data.org::রাশিয়া][রাশিয়া]]
-
 * [[file:data.org::ইংল্যান্ড][ইংল্যান্ড]]
-
 * [[file:data.org::ভারতের সঙ্গে ৭ সমঝোতা স্মারক][ভারতের সঙ্গে ৭ সমঝোতা স্মারক]]
-
 * [[file:data.org::September on Jossore Road][September on Jossore Road]]
-
 * [[file:data.org::SDG 17 Goals][SDG 17 Goals]]
-
 * [[file:data.org::সংবিধান সংশোধনী সমূহ][সংবিধান সংশোধনী সমূহ]]
 ** [[file:data.org::প্রথম সংশোধনী: যুদ্ধাপরাধীদের বিচার][প্রথম সংশোধনী: যুদ্ধাপরাধীদের বিচার]]
 ** [[file:data.org::দ্বিতীয় সংশোধনী: মৌলিক অধিকার স্থগিত এবং জরুরি অবস্থা][দ্বিতীয় সংশোধনী: মৌলিক অধিকার স্থগিত এবং জরুরি অবস্থা]]
@@ -218,12 +211,7 @@
 ** [[file:data.org:: ১৫২। ব্যাখ্যা][১৫২। ব্যাখ্যা]]
 ** [[file:data.org:: ১৫৩। প্রবর্তন, উল্লেখ ও নির্ভরযোগ্য পাঠ][১৫৩। প্রবর্তন, উল্লেখ ও নির্ভরযোগ্য পাঠ]]
 
-* [[file:data.org::Central Bank][Central Bank]]
-
 * [[file:data.org:: পিএসসি নির্ধারিত ১১ জন কবি সাহিত্যিক][পিএসসি নির্ধারিত ১১ জন কবি সাহিত্যিক]]
-
 * [[file:data.org::গুরুত্বপূর্ন সাহিত্য কর্ম এবং তাদের প্রকাশ কাল][গুরুত্বপূর্ন সাহিত্য কর্ম এবং তাদের প্রকাশ কাল]] 
 * [[file:data.org::বাংলাদেশের রিজার্ভ পরিস্থিতি][বাংলাদেশের রিজার্ভ পরিস্থিতি]]
 * [[file:data.org:: রাশিয়া-ইউক্রেন যুদ্ধ: বাংলাদেশের উপর প্রভাব][রাশিয়া-ইউক্রেন যুদ্ধ: বাংলাদেশের উপর প্রভাব]]
-* [[file:data.org:: Important Banking Terms][Important Banking Terms]]
-*  [[file:data.org::Have to Read][Have to Read]]

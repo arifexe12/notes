@@ -13,7 +13,27 @@
  10) ২০১৭ সালে মিত্রদের নিয়ে কাতারের ওপর সর্বাত্মক অবরোধ আরোপ করে সৌদি। অবরোধ তুলে নিতে দেওয়া ১৩টি শর্তের অন্যতম ছিল আল-জাজিরা বন্ধ করে দেওয়া।
  11) ২০১৭ সালের ৫ জুন সৌদি ও তার আরব মিত্ররা কাতারের ওপর সর্বাত্মক অবরোধ আরোপ করে।
  12) ২০২১ সালের জানুয়ারিতে অবরোধ তুলে নেয় সৌদি জোট।
- 13) দেশের একমাত্র নারী জেলা পরিষদ চেয়ারম্যান সালমা রহমান পিরোজপুর জেলা পরিষদের চেয়ারম্যান 
+ 13) দেশের একমাত্র নারী জেলা পরিষদ চেয়ারম্যান সালমা রহমান পিরোজপুর জেলা পরিষদের চেয়ারম্যান
+ 14) পাকিস্তানের প্রেসিডেন্ট *আরিফ আলভি*
+ 15) পাঞ্জাবের ওয়াজিরাবাদ শহরের আল্লাহওয়ালা চক এলাকার কাছে ইমরান খানের ওপর এ হামলা হয়
+ 16) কুইক রেন্টালের জন্য বিদ্যুৎ ও জ্বালানির দ্রুত সরবরাহ বৃদ্ধি (বিশেষ বিধান) আইন ২০১০ করা হয় ।
+ 17) দেশের দ্বিতীয় স্যাটেলাইট ‘বঙ্গবন্ধু স্যাটেলাইট-২’-এর ধরন নির্ধারণের জন্য ফ্রান্সের প্রাইসওয়াটারহাউসকুপার্সকে
+      (পিডব্লিউসি) নিয়োগ দিয়েছে বিএসসিএল।
+ 18) ২০১৮ সালের ১২ মে বঙ্গবন্ধু স্যাটেলাইট-১ মহাকাশে উৎক্ষেপণের মাধ্যমে বিশ্বের ৫৭তম দেশ হিসেবে
+      স্যাটেলাইটের অভিজাত ক্লাবে প্রবেশ করে বাংলাদেশ।এতে বাংলাদেশের খরচ হয় ২
+      হাজার ৯০২ কোটি টাকা।
+ 19) বঙ্গবন্ধু স্যাটেলাইট-২ হাইব্রিড স্যাটেলাইট হতে পারে।
+ 20) বঙ্গবন্ধু স্যাটেলাইট-১  থেকে বছরে ১২০ কোটি পাচ্ছি।
+ 21) মহাকাশ বিষয়ক রাশিয়ার রাষ্ট্রীয় প্রতিষ্ঠান গ্লাভকসমসের সঙ্গে বঙ্গবন্ধু স্যাটেলাইট-২  তৈরি ও উৎক্ষেপণ বিষয়ে
+      সহযোগিতা স্মারক স্বাক্ষরের মধ্য দিয়ে আর্থ অবজারভেটরি ক্যাটাগরির এই  স্যটেলাইটটির নির্মাণের অভিযাত্রা শুরু হয়।
+ 22) ২০২১ সালের ১২ ডিসেম্বর বাংলাদেশ ফাইভ-জি যুগে প্রবেশ করেছে।
+ 23) ইরানের পররাষ্ট্রমন্ত্রী হোসেইন আমির আবদুল্লাহিয়ান
+ 24) আন্তর্জাতিক নিষেধাজ্ঞার মধ্যেও
+ 25) চীন, ভারত, তুরস্ক ও শ্রীলঙ্কার মতো দেশগুলো মস্কোর কাছ থেকে তেল কিনছে।
+ 26) যুক্তরাষ্ট্র ২৪ জানুয়ারি থেকে ৩ অক্টোবর পর্যন্ত ইউক্রেনকে ৫২০০ কোটি ডলারের সামরিক,
+     মানবিক ও অন্যান্য খাতের সহায়তা দিয়েছে। 
+
+
 
 
 
@@ -118,7 +138,7 @@
  Taxi September along Jessore Road
  Oxcart skeletons drag charcoal load
  past watery fields thru rain flood ruts
- Dung cakes on treetrunks, plastic-roof huts
+ Dung cakes on tree trunks, plastic-roof huts
 
  Wet processions Families walk
  Stunted boys big heads don't talk
@@ -3040,7 +3060,7 @@
 - Russia  *Central Bank of Russian Federation (CBR)*
 - Ukraine  *National Bank of Ukraine*
 - Qatar *Qatar Central Bank*
-- Venezuela *The central Bank of Venezuela*
+- Venezuela *The Central Bank of Venezuela*
 - Turkey *Central Bank of the Republic of Turkey (CBRT)*
 - Iran  *Central Bank of Islamic Republic of Iran*
 - Saudi Arabia  *Saudi Central Bank*
@@ -3054,6 +3074,10 @@
 - Barbados *Central Bank of Barbados*
 - Mexico *The Bank of Mexico/Banco de Mexico*
 - Maldives *Maldives Monetary Authority*
+- Germany *Central Bank of the Federal Republic of Germany*
+- Yemen  *Central Bank of Yemen*
+- Nepal *Nepal Rastra Bank*
+- Brazil *The Central Bank of Brazil*
 
 * পিএসসি নির্ধারিত ১১ জন কবি সাহিত্যিক [68%]
 
@@ -3248,50 +3272,48 @@
 
 1) [[https://magoosh.com/gmat/gmat-probability-questions/][Probability]]
 2) [[HTTPS://WWW.YOUTUBE.COM/WATCH?V=74HW-FS0IVI&T=33S][Divisibilit]]
-3) [[Https://WWW.gmatprepnow.com/module/gmat-probability/video/754][Probability practice gmat club]]
+3) [[Https://WWW.gmatprepnow.com/module/gmat-probability/video/754][Probability practice Gmat Club]]
 4) [[https://www.prothomalo.com/business/wjhmt1mvri][রপ্তানি ও প্রবাসী আয় আয় কমল টানা দুই মাস]]
   
 * Important Banking Terms
 
   - ADB *Asian Development Bank*
   - AGM  *Annual General Meeting*
-  - ALCO *Assests Liability Committiee*
-  - ATM *Automated teller machine*
+  - ALCO *Assests Liability Committee*
+  - ATM *Automated Teller machine*
   - BACH *Bangladesh automated Clearing House*
-  - BACPS *Bangladseh Automated Cheque Processing System*
-  - BALCO *Branch Anti-Money Laundering Compliance Office*
+  - BACPS *Bangladesh Automated Cheque Processing System*
+  - BALCO *Branch Anti-Money Laundering Compliance Officer*
   - BB *Bangladesh Bank*
   - BCP  *Basel Core Principle*
   - BEFTN *Bangladesh Electronic Fund Transfer Network*
   - BRPD *Banking Regulatory Policy Department*
   - CAD *Credit Administrative Department*
-  - CAMELS *Capital Assests Management Earning Liquidity Securities Annalysis*
-  - CAR *capital Adequecy Ratio*
-  - CBA *Collecting Barganing Agent*
-  - CCU *Central CompliUnit*
-  - CIB *Credit Information bureau*
+  - CAMELS *Capital Assests Management Earning Liquidity Securities Analysis*
+  - CAR *Capital Adequacy Ratio*
+  - CBA *Collective Bargaining Agent*
+  - CCU *Central Compliance Unit*
+  - CIB *Credit Information Bureau*
   - CIF *Customer Information Form*
   - COI *Control Of Insurance*
   - CRAB *Credit Rating Agency of Bangladesh*
-  - CRISL *Credit rating Information service Ltd*
+  - CRISL *Credit Rating Information Service Ltd*
   - CRM  *Credit Risk Management*
   - CRR *Cash Reserve Requirement*
-  - CTR  *Cash Trabsaction Report*
+  - CTR  *Cash Transaction Report*
   - DD *Demand Draft*
   - DDA *Direct Deposit Access*
   - DMB  *Deposit Money Bank*
-  - DSCR  *Debth Service Gover Ratio*
-  - EFT  *Elctronic Fund Transfer*
-  - EGM  *Extra- ordinary General Meeting*
-  - EPB  *Export Information Bureau*
+  - DSCR  *Debt Service Cover Ratio*
+  - EFT  *Electronic Fund Transfer*
+  - EGM  *Extra- Ordinary General Meeting*
   - EPB  *Export Promotion Bureau*
   - EPS *Earning Per Share*
   - FDA  *Fixed Deposit Account*
   - FDBP  *Foreign Development Bill Purchase*
   - FDD  *Foreign Demand Draft*
-  - FDD  *Foreign Demand Draft*
   - FIs *Financial Institutions*
-  - FIU  *Financial Intelligent Unit*
+  - FIU  *Financial Intelligence Unit*
   - FSRP  *Financial Sector Reform Project*
   - FSS  *Financial Spread Sheet*
   - IBC  *Inward Bill For Collection*
@@ -3300,39 +3322,39 @@
   - IMF *International Monetary Fund*
   - IPO  *Initial Public Offering*
   - KYC *Know Your Customer*
-  - LAAB *Laon Against Accepted Bill*
+  - LAAB *Loan Against Accepted Bill*
   - LDBP *Local Development Bill Purchase*
-  - LIM+ *Laon against Imported Merchandise*
-  - LRA+ *Lending Risk Annalysis*
+  - LIM+ *Loan against Imported Merchandise*
+  - LRA+ *Lending Risk Analysis*
   - LTR  *Loan Against Trust Receipt*
-  - LTV *Loan To value*
+  - LTV *Loan To Value*
   - MDGs *Millennium Development Goals*
   - MICR  *Magnetic Ink Character Recognition*
-  - MRA *Micro-credit Regulatory Ratio*
-  - MTCN  *Moneu Trabsfer Control number*
+  - MRA *Micro-Credit Regulatory Authority*
+  - MTCN  *Money Transfer Control Number*
   - MTD  *Money Term Deposit Account*
-  - NFCD *Non Resident Foreign Currency deposit*
+  - NFCD *Non Resident Foreign Currency Deposit*
   - NIM *New Issue Market*
   - NPL  *Non Performing Loan*
   - NPL  *Non Performing Loan Account*
-  - NPV  *Net Present value*
-  - OBC  *outward Bill for Collection*
-  - PDC+  *Product development Council*
+  - NPV  *Net Present Value*
+  - OBC  *Outward Bill for Collection*
+  - PDC+  *Product Development Council*
   - PES  *Price Earning Ratio*
   - POS  *Point Of Sale*
   - REER *Real Effecting Exchange Rate*
   - Repo *Re-purchase*
   - RJSC  *Registrar of Joint Stock Company*
-  - RTGs *real Time Gross Settlement*
-  - RWA *Risk weighted Assest*
+  - RTGS *Real Time Gross Settlement*
+  - RWA *Risk Weighted Assets*
   - SBS *Schedule Banking Statistics*
-  - SEC *Securities and Exchange commission*
-  - SLR *Statutory liquidity ratio*
+  - SEC *Securities and Exchange Commission*
+  - SLR *Statutory Liquidity Ratio*
   - SMA *Special Mention Account*
-  - SS  *Sub-standard*
+  - SS  *Sub-Standard*
   - STL *Short Term Loan*
   - STR *Suspicious Transaction Report*
-  - SWIFT *Society for World Wide Inter financial Telecomunication*
+  - SWIFT *Society for World Wide Inter Financial Telecommunication*
   
 ** Bouncing of a cheque
 When an account has insufficient funds the cheque is is not payable
@@ -3371,7 +3393,7 @@ It is the amount of Funds borrowed by the government to meet the
 expenditures.
 ** Initial Public Offering (IPO)
 It is the time when a company makes the first offering of the shares
-to the pubic.
+to the public.
 ** Leverage Ratio
 It is a financial ratio which gives us an idea or a measure of a
 company’s ability to meet its financial losses.
@@ -3418,3 +3440,65 @@ mainly focuses on the financial needs of the institutional clients and
 the industry.
 ** Zero Coupon Bond
 It is a bond that is sold at good discount as it has no coupon.
+
+* বিদ্যুৎ ও জ্বালানি খাতের এ অবস্থা থেকে উত্তরণের জন্য নিম্নোক্ত ব্যবস্থাগুলো গ্রহণ করা প্রয়োজন
+
+1) সরকারপ্রধানের বদলে একজন সৎ ও পেশাদার পূর্ণমন্ত্রীকে বিদ্যুৎ, জ্বালানি ও
+   খনিজ সম্পদ মন্ত্রণালয়ের দায়িত্ব প্রদান করতে হবে।
+2) *বিদ্যুৎ ও জ্বালানির দ্রুতসরবরাহ বৃদ্ধি (বিশেষ বিধান) আইন ২০১০* অবিলম্বে
+   বাতিল করে এ খাতের সব সংগ্রহ উন্মুক্ত প্রতিযোগিতার মাধ্যমে করতে হবে।
+   এই আইনের মেয়াদ ২০২৬ সাল পর্যন্ত । 
+3) জ্বালানি আমদানি হ্রাস করার জন্য নতুন গ্যাসক্ষেত্র আবিষ্কার ও নবায়নযোগ্য শক্তির
+   ব্যবহার বাড়াতে হবে।
+4) অগ্রাধিকার ভিত্তিতে দেশীয় কয়লার মজুত ব্যবহার করার জন্য কয়লা নীতি চূড়ান্ত করতে হবে।
+5) ভাসমান জাহাজের মাধ্যমে এলএনজি সংগ্রহে ভূমিতে এলএনজি প্ল্যান্ট স্থাপন করতে হবে।
+6) রেন্টাল, কুইক রেন্টাল প্রকল্পগুলোর নবায়ন বন্ধ করতে হবে।
+7) *আইপিপির* পরিবর্তে *এমপিপির* মাধ্যমে বেসরকারি খাতকে বিদ্যুৎ উৎপাদনে সম্পৃক্ত করতে হবে।
+8) নিরপেক্ষ ক্যাপাসিটি টেস্টের মাধ্যমে বেসরকারি বিদ্যুৎকেন্দ্রগুলোর নির্ধারণ করতে হবে।
+9) গ্রিড বিপর্যয় এড়ানোর জন্য *এজিসি(Automatic Generation Control)* সংগ্রহ করাসহ জাতীয় লোড
+   ডেসপাচ সেন্টারের আধুনিকায়ন করতে হবে।
+10) বিদেশি বিদ্যুৎ সরবরাহকারী চুক্তির ন্যায্যতা পরীক্ষা করতে হবে।
+11) প্রাথমিক জ্বালানি, বিদ্যুৎ উৎপাদন,সঞ্চালন ও বিতরণব্যবস্থার সমন্বিত উন্নয়নের জন্য মাস্টারপ্ল্যান
+     প্রণয়ন করে তা অনুসরণ করতে হবে।
+     
+* বিদ্যুৎ সঙ্কট
+
+  1) দেশের *১৩৩টি বিদ্যুৎ কেন্দ্রের মধ্যে ৬৩টি* কেন্দ্র এখন জ্বালানির অভাবে  বসে আছে।
+  2) *১৯ জুলাই থেকে*  সারাদেশে লোডশেডিং করে বিদ্যুতের রেশনিং শুরু হয়।
+  3) বিদ্যুৎ *প্রতিমন্ত্রী নসরুল হামিদ*
+  4) সারাদেশে বিদ্যুতের *চাহিদা ১৪ হাজার ৫০০ মেগাওয়াট।*
+  5) উৎপাদন করা যাচ্ছে *১৩ হাজার মেগাওয়াট।*
+  6) *এক হাজার ৫০০ মেগাওয়াটের* ঘাটতি ।
+  7) *গত ৪ অক্টোবর* বিদ্যুতের জাতীয় গ্রিড বিপর্যয়ের পর বিদ্যুৎ সংকট
+     ভয়াবহ আকার ধারণ করছে।
+  8) এর মধ্যে গ্যাসচালিত *৫৭টি বিদ্যুৎকেন্দ্রের উৎপাদন ক্ষমতা ১১ হাজার ১৭ মেগাওয়াট।* উৎপাদন হচ্ছে
+      মাত্র *পাঁচ হাজার মেগাওয়াট।*
+  9) ফার্নেস অয়েল চালিত *৫৬টি বিদ্যুৎকেন্দ্রের উৎপাদন ক্ষমতা পাঁচ হাজার ৫৪১ মেগাওয়াট*
+  10) *১১টি ডিজেল* কেন্দ্রের উৎপাদন ক্ষমতা *১ হাজার ৫১৫ মেগাওয়াট।*
+  11) সব মিলিয়ে জ্বালানি তেল থেকে বিদ্যুৎ উৎপাদন সক্ষমতা *সাত হাজার মেগাওয়াটের বেশি*
+       হলেও দিনে গড়ে উৎপাদন হচ্ছে *দুই হাজার ৫০০ মেগাওয়াট থেকে চার হজার মেগাওয়াট পর্যন্ত।*
+  12) *মার্চে* যদি *রামপালের( কয়লা বিদ্যুৎ কেন্দ্র)* *এক হাজার ২০০ মেগাওয়াট* এবং ভারতের *আদানির
+       ৮০০ মেগাওয়াট* আসে তাহলে দুই হাজার মেগাওয়াট তখন পাওয়া যাবে।
+       এটা যদি যোগ হয় তাহলে পরিস্থিতির উন্নতি হবে। অন্যথায় নয়।
+       আর রূপপুরের বিদ্যুৎ পেতে আরো অনেক সময় লাগবে।”
+  13) তেলের বাকি আছে *১৬ হাজার কোটি টাকা,* এটা শোধ না করলে আমরা তেল পাব না।
+  14) *ড. তৌফিক-ই-ইলাহী চৌধুরী* বিদ্যুৎ, জ্বালানি ও খনিজ সম্পদ উপদেষ্টা
+  15) *২০২৬* সালের আগে চুক্তিবদ্ধ জ্বালানি ছাড়া নতুন চুক্তির ভিত্তিতে তেল-গ্যাস বেচবে না কাতার ।
+  16) বাংলাদেশ সাধারণত *৪০ শতাংশ এলএনজি গ্যাস আমদানি* করলেও চলতি বছর তা নামিয়ে *এনেছে ৩০ শতাংশে।*
+  17) সৌর বিদ্যুতায়নের মধ্যমানের কৌশলে *২০৪১ সালের মধ্যে বাংলাদেশে ২০ হাজার মেগাওয়াট সবুজ বিদ্যুৎ উৎপাদন সম্ভব।*
+      অন্যদিকে নদী অববাহিকা উন্নয়নের *৫ শতাংশ ভূমি, শিল্পাঞ্চলের রুফটপ ১৫ শতাংশ ভূমি প্রভৃতি নিয়ে একটি উচ্চপর্যায়ের
+      সৌর স্থাপনা মডেলে এই সক্ষমতা ৩০ হাজার মেগাওয়াটে পৌঁছানো সম্ভব।*
+  18) জ্বালানি আমদানির নির্ভরতা থেকে বের হতে চাইলে সরকারকে স্বচ্ছ ও দুর্নীতি মুক্ত বাস্তবায়নে *'ন্যাশনাল সোলার এনার্জি রোডম্যাপ ২০২১-৪১'কে*
+       আলোর পথে নিতে হবে।
+  19) টেকসই উন্নয়ন অভীষ্ট এসডিজি-৭ মতে, *স্বল্পোন্নত দেশগুলোর জন্য মোট ব্যবহৃত বিদ্যুতের ১২ শতাংশ নবায়নযোগ্য করার শর্ত আছে।*
+       বাংলাদেশ এলডিসি উত্তরণের শক্তিশালী প্রার্থী বলে ব্যবহৃত *বিদ্যুতের ১৭ শতাংশ নবায়নযোগ্য রাখার শর্ত মানা উচিত*, যা নিম্ন মধ্যআয়ের
+       দেশের জন্য প্রযোজ্য। বাংলাদেশ নবায়নযোগ্য বিদ্যুৎ উৎপাদনের বর্তমান অবস্থান *(মাত্র সাড়ে ৪ শতাংশ)* অগ্রহণযোগ্য।
+  20) এ পরিস্থিতিতে বাংলাদেশ তেল, গ্যাস ও খনিজ করপোরেশনের (পেট্রোবাংলা) তথ্য বলছে, *দেশে মাত্র ৯-১০ বছর ব্যবহারের জন্য গ্যাস মজুদ* আছে।
+       দেশের বার্ষিক গ্যাস ব্যবহার প্রায় ১ ট্রিলিয়ন ঘনফুট।
+  21) পেট্রোবাংলার তথ্য অনুযায়ী, দেশে এখন পর্যন্ত আবিষ্কৃত ২৮টি গ্যাসক্ষেত্রের *মোট প্রামাণিক মজুদের পরিমাণ ২৯ দশমিক ৯ ট্রিলিয়ন ঘনফুট,*
+       যা থেকে *চলতি মাস পর্যন্ত ১৯ দশমিক ১১ ট্রিলিয়ন ঘনফুট* গ্যাস উত্তোলন করা হয়েছে।
+  22) বর্তমানে দেশে বিদ্যমান মোট বিদ্যুতের ৪৩ % গৃহস্থালিতে, ৪০.৮ % কলকারখানায়, ১০.৯ % বাণিজ্যিক খাতে,
+      ২.৭ % কৃষিখাতে এবং বাকি ২.৬ % বিবিধ খাতে ব্যবহৃত হয়।
+
+
+
