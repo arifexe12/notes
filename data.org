@@ -11,11 +11,11 @@
  7) মধ্যপ্রাচ্যে যুক্তরাষ্ট্রের সবচেয়ে বড় বিমানঘাঁটি এই কাতারেই।
  8) কাতার দেশটিতে সামরিক ঘাঁটি আছে তুরস্কেরও।
  9) ১৯৯৬ সালে বিশ্বমানের সংবাদমাধ্যম হিসেবে কাতারে শুরু হয় আল-জাজিরার পথচলা।
- 10) ২০১৭ সালে মিত্রদের নিয়ে কাতারের ওপর সর্বাত্মক অবরোধ আরোপ করে সৌদি। অবরোধ
+ 10) *২০১৭ সালের ৫ জুন* সৌদি ও তার আরব মিত্ররা কাতারের ওপর সর্বাত্মক অবরোধ আরোপ করে।
+ 11) ২০১৭ সালে মিত্রদের নিয়ে কাতারের ওপর সর্বাত্মক অবরোধ আরোপ করে সৌদি। অবরোধ
       তুলে নিতে দেওয়া ১৩টি শর্তের অন্যতম ছিল আল-জাজিরা বন্ধ করে দেওয়া।
- 11) *২০১৭ সালের ৫ জুন* সৌদি ও তার আরব মিত্ররা কাতারের ওপর সর্বাত্মক অবরোধ আরোপ করে।
  12) *২০২১ সালের জানুয়ারিতে* অবরোধ তুলে নেয় সৌদি জোট।
- 13) দেশের একমাত্র নারী জেলা পরিষদ চেয়ারম্যান সালমা রহমান পিরোজপুর জেলা পরিষদের
+ 13) দেশের একমাত্র নারী জেলা পরিষদ চেয়ারম্যান *সালমা রহমান পিরোজপুর* জেলা পরিষদের
       চেয়ারম্যান
  14) পাকিস্তানের প্রেসিডেন্ট *আরিফ আলভি*
  15) পাঞ্জাবের *ওয়াজিরাবাদ শহরের আল্লাহওয়ালা চক এলাকার* কাছে ইমরান খানের ওপর এ হামলা হয়
@@ -38,7 +38,9 @@
      মানবিক ও অন্যান্য খাতের সহায়তা দিয়েছে।
  26) *The non-OPEC countries which export crude oil are termed as OPEC plus
      countries.* OPEC plus countries include *Azerbaijan, Bahrain, Brunei,
-     Kazakhstan, Malaysia, Mexico, Oman, Russia, South Sudan and Sudan*. 
+     Kazakhstan, Malaysia, Mexico, Oman, Russia, South Sudan and Sudan*.
+ 27) cop-27 অনুষ্ঠিত হয় ৬ থেকে ১৮ নভেম্বর মিশরের শার্ম আল শেখে । এর স্লোগান
+     Together For Implementation.অংশগ্রহণ কারী দেশ ১৯৮ টি । 
 
 
 
@@ -3287,10 +3289,13 @@
 * Important Banking Terms
 
   - ADB *Asian Development Bank*
+  - A.M  *Ante Meridiem*
+  - P.M  *Post Meridiem*
+  - ETC  *Et Cetera*
   - AGM  *Annual General Meeting*
   - ALCO *Assests Liability Committee*
-  - ATM *Automated Teller machine*
-  - BACH *Bangladesh automated Clearing House*
+  - ATM *Automated Teller Machine*
+  - BACH *Bangladesh Automated Clearing House*
   - BACPS *Bangladesh Automated Cheque Processing System*
   - BALCO *Branch Anti-Money Laundering Compliance Officer*
   - BB *Bangladesh Bank*
@@ -3352,7 +3357,7 @@
   - PES  *Price Earning Ratio*
   - POS  *Point Of Sale*
   - REER *Real Effecting Exchange Rate*
-  - Repo *Re-purchase*
+  - Repo *Re-Purchase*
   - RJSC  *Registrar of Joint Stock Company*
   - RTGS *Real Time Gross Settlement*
   - RWA *Risk Weighted Assets*
