@@ -218,3 +218,5 @@
 * [[file:data.org:: Important Banking Terms][Important Banking Terms]]
 * [[file:data.org:: পাতাল রেলের যুগে প্রবেশ করলো বাংলাদেশ][পাতাল রেলের যুগে প্রবেশ করলো বাংলাদেশ]]
 * [[file:data.org:: Important Abbrevation & Terms][Important Abbrevation & Terms]]
+* [[file:data.org:: আঞ্চলিক বাণিজ্য চুক্তি (RTA ) নীতি, ২০২২][আঞ্চলিক বাণিজ্য চুক্তি (RTA ) নীতি, ২০২২]]
+* [[file:data.org::IMF'র ঋণ এবং বাংলাদেশ][IMF'র ঋণ এবং বাংলাদেশ]]

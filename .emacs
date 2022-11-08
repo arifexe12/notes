@@ -23,7 +23,8 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  '(bold ((t (:foreground "light green"))))
- '(mode-line-emphasis ((t (:foreground "dark cyan" :weight bold)))))
+ '(mode-line-emphasis ((t (:foreground "dark cyan" :weight bold))))
+ '(underline ((t (:foreground "OrangeRed1" :underline t)))))
 (add-to-list 'custom-theme-load-path "/Users/space-x/.emacs.d/themes")
 ;; Comment/uncomment this line to enable MELPA Stable if desired.  See `package-archive-priorities`
 ;; and `package-pinned-packages`. Most users will not need or want to do this.
@@ -134,11 +135,18 @@
 
 (global-set-key (kbd "C-q")  'make-bold)
 
-(defun convert-to-paragraph() 
-  (interactive) 
-  (fill-paragraph))
+(defun convert-to-underline(start end) 
+  (interactive "r" )
+  (deactivate-mark)
+  (goto-char start) 
+ (skip-chars-forward " ") 
+  (insert "_") 
+  (goto-char (+ end 1)) 
+ (skip-chars-backward " ") 
+  (insert "_")
+  )
 
-(global-set-key (kbd "C-2")  'convert-to-paragraph)
+(global-set-key (kbd "C-2")  'convert-to-underline)
 
 (global-set-key (kbd "s-<down>")  'end-of-buffer)
 
