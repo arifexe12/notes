@@ -24,7 +24,7 @@
  ;; If there is more than one, they won't work right.
  '(bold ((t (:foreground "light green"))))
  '(mode-line-emphasis ((t (:foreground "dark cyan" :weight bold))))
- '(underline ((t (:foreground "OrangeRed1" :underline t)))))
+ '(underline ((t (:foreground "OrangeRed1")))))
 (add-to-list 'custom-theme-load-path "/Users/space-x/.emacs.d/themes")
 ;; Comment/uncomment this line to enable MELPA Stable if desired.  See `package-archive-priorities`
 ;; and `package-pinned-packages`. Most users will not need or want to do this.
