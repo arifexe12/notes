@@ -3670,7 +3670,7 @@ _IMF থেকে বাংলাদেশের ঋণ গ্রহণ:_
 * Have to Read
 
 1) [[https://magoosh.com/gmat/gmat-probability-questions/][Probability]]
-2) [[HTTPS://WWW.YOUTUBE.COM/WATCH?V=74HW-FS0IVI&T=33S][Divisibilit]]
+2) [[https://www.youtube.com/watch?v=74Hw-fS0ivI][Divisibility]]
 3) [[Https://WWW.gmatprepnow.com/module/gmat-probability/video/754][Probability practice Gmat Club]]
 4) [[https://www.prothomalo.com/business/wjhmt1mvri][রপ্তানি ও প্রবাসী আয় আয় কমল টানা দুই মাস]]
   
@@ -4324,90 +4324,94 @@ _মোটরসাইকেল বিক্রি নিম্নমুখী_
 
 * অর্থনৈতিক সমীক্ষা ২০২২-২০২৩
 
-- মোট জনসংখ্যা ১৬ কোটি ৯১ লাখ ১০ হাজার,  ১৬৯.১১ মিলিয়ন
-- জনসংখ্যা বৃদ্ধির হার ১.৩৭ % 
-- জনসংখ্যার ঘনত্ব ১১৪০/বর্গ কি.মি
-- গড় আয়ু/প্রত্যাশিত আয়ুষ্কাল ৭২.৮ বছর, পুরুষ ৭১.২, নারী ৭৪.৫
-- স্বাক্ষরতার হার (৭ বছরের অধিক) 75.2%। পুরুষ ৭৭.৪% , নারী ৭২.৯%। 
-- প্রাথমিকে ভর্তির হার (২০২০ সাল নাগাদ) ৯৭.৮১% । ঝরে পড়ার হার - ১৭.২% । 
-- পুরুষ ও নারীর অনুপাত ১০০.২: ১০০
-- ডাক্তার প্রতি জনসংখ্যার অনুপাত ১ : ১৭২৪
-- সুপেয় পানি গ্রহণকারী ৯৮.৩%
-- চলতি মূল্যে জিডিপি ৩৯,৭৬,৪৬২ কোটি টাকা। প্রবৃদ্ধি - ১১.৩৫%।চলতি মূল্যে মাথাপিছু জিডিপি
-  ২৭২৩ মার্কিন ডলার বা ২,৩২,৮২৮ টাকা
-- স্থির মূল্যে জিডিপি ৩০,৩৯,২৭৩ কোটি টাকা। স্থির মূল্যে জিডিপি প্রবৃদ্ধির হার ৭.২৫% ।
-  ২০২০-২১ অর্থবছরে প্রবৃদ্ধির হার - ৬.৯৪%।
-- চলতি মূল্যে জাতীয় আয় (GNI)  ৪১,২৪,০৭১ কোটি টাকা
-- চলতি মূল্যে মাথাপিছু জাতীয় আয় (GNI)২৮২৪ মার্কিন ডলার বা ২,৪১,৪৭০ টাকা।
-  ২০২০-২১ অর্থবছরে মাথাপিছু জাতীয় আয়- ২৫৯১ মার্কিন ডলার
-- মুদ্রাস্ফীতি/মূল্যস্ফীতি 6.22% . ২০২১-এ ছিল - ৫.৫৬%
-- অর্থনীতি/জিডিপিতে কৃষিখাতের অবদান ১১.৫০% ।  নিয়োজিত জনশক্তির পরিমাণ ৪০.৬%
-- অর্থনীতি/জিডিপিতে শিল্পখাতের অবদান ৩৭.০৭% । নিয়োজিত জনশক্তির পরিমাণ ২০.৪% 
-- অর্থনীতি/জিডিপিতে সেবাখাতের অবদান ৫১.৪৪% । নিয়োজিত জনশক্তির পরিমাণ ৩৯.০% 
-- আমদানি ব্যয় ৭১,৪১০ মিলিয়ন মার্কিন ডলার । গত বছরের তুলনায় ৪৬.৭০% বেশি
-- রপ্তানি আয় ৪৩,৭০০ মিলিয়ন মার্কিন । গত বছরের তুলনায় ৩২.৪৩% বেশি 
-- বৈদেশিক বাণিজ্য ঘাটতি ২২,৩০৬ মিলিয়ন মার্কিন । চলতি হিসাবে ১২,৮৩৪ মিলিয়ন মার্কিন ডলার
-- মোট রেমিট্যান্স/ প্রবাসী আয় ১৩,৪৩৮.৫০ মিলিয়ন মার্কিন ডলার
-- গত বছরের তুলনায় ১৯.৪৭% হ্রাস পেয়েছে
-- মোট কর্মক্ষম জনশক্তি / শ্রমশক্তি (অনূর্ধ্ব-১৫ বছর) ৬.৩৫ কোটি (পেশায় নিয়োজিত - ৬.০৮ কোটি) ।
+- মোট জনসংখ্যা *১৬ কোটি ৯১ লাখ ১০ হাজার,  ১৬৯.১১ মিলিয়ন*
+- জনসংখ্যা বৃদ্ধির হার *১.৩৭ %* 
+- জনসংখ্যার ঘনত্ব *১১৪০/বর্গ কি.মি*
+- গড় আয়ু/প্রত্যাশিত আয়ুষ্কাল *৭২.৮ বছর, পুরুষ ৭১.২, নারী ৭৪.৫*
+- স্বাক্ষরতার হার *(৭ বছরের অধিক) 75.2%। পুরুষ ৭৭.৪% , নারী ৭২.৯%।* 
+- প্রাথমিকে ভর্তির হার *(২০২০ সাল নাগাদ) ৯৭.৮১%* । ঝরে পড়ার হার - *১৭.২%* । 
+- পুরুষ ও নারীর অনুপাত *১০০.২: ১০০*
+- ডাক্তার প্রতি জনসংখ্যার অনুপাত *১ : ১৭২৪*
+- সুপেয় পানি গ্রহণকারী *৯৮.৩%*
+- চলতি মূল্যে জিডিপি *৩৯,৭৬,৪৬২* কোটি টাকা। প্রবৃদ্ধি - ১১.৩৫%।চলতি মূল্যে মাথাপিছু জিডিপি ২৭২৩ মার্কিন
+  ডলার বা ২,৩২,৮২৮ টাকা
+- স্থির মূল্যে জিডিপি *৩০,৩৯,২৭৩ কোটি টাকা।* স্থির মূল্যে জিডিপি প্রবৃদ্ধির হার ৭.২৫% ।২০২০-২১ অর্থবছরে
+  প্রবৃদ্ধির হার - ৬.৯৪%।
+- চলতি মূল্যে জাতীয় আয় (GNI)  *৪১,২৪,০৭১ কোটি টাকা*
+- চলতি মূল্যে মাথাপিছু জাতীয় আয় (GNI) *২৮২৪ মার্কিন ডলার বা ২,৪১,৪৭০ টাকা।*
+  ২০২০-২১ অর্থবছরে মাথাপিছু জাতীয় আয়- *২৫৯১ মার্কিন ডলার*
+- মুদ্রাস্ফীতি/মূল্যস্ফীতি *6.22%* . ২০২১-এ ছিল - *৫.৫৬%*
+- অর্থনীতি/জিডিপিতে *কৃষিখাতের অবদান ১১.৫০%*, নিয়োজিত জনশক্তির *পরিমাণ ৪০.৬%*
+- অর্থনীতি/জিডিপিতে *শিল্পখাতের অবদান ৩৭.০৭%,* নিয়োজিত জনশক্তির *পরিমাণ ২০.৪%* 
+- অর্থনীতি/জিডিপিতে *সেবাখাতের অবদান ৫১.৪৪%,* নিয়োজিত জনশক্তির *পরিমাণ ৩৯.০%* 
+- আমদানি ব্যয় *৭১,৪১০ মিলিয়ন মার্কিন ডলার,* গত বছরের তুলনায় ৪৬.৭০% বেশি
+- রপ্তানি আয় *৪৩,৭০০ মিলিয়ন মার্কিন*, গত বছরের তুলনায় ৩২.৪৩% বেশি 
+- বৈদেশিক বাণিজ্য ঘাটতি *২২,৩০৬ মিলিয়ন মার্কিন,* চলতি হিসাবে ১২,৮৩৪ মিলিয়ন মার্কিন ডলার
+- মোট রেমিট্যান্স/ প্রবাসী আয় *১৩,৪৩৮.৫০ মিলিয়ন মার্কিন ডলার*,গত বছরের তুলনায় ১৯.৪৭% হ্রাস পেয়েছে
+- মোট কর্মক্ষম জনশক্তি / শ্রমশক্তি (অনূর্ধ্ব-১৫ বছর) *৬.৩৫ কোটি* (পেশায় নিয়োজিত - ৬.০৮ কোটি) ।
   পুরুষ ৪.৩৫ কোটি ও -নারী ২ কোটি
-- দারিদ্র্যের হার 20.৫% । চরম দারিদ্র্যের হার ১০.৫%
-- স্থূল জন্মহার (প্রতি হাজারে) ১৮.১ জন
-- স্থূল মৃত্যুহার (প্রতি হাজারে) ৫.১ জন
-- প্রতি হাজারে শিশু মৃত্যুর হার ২১ জন (১ বছরের কম)। ২৮ জন (৫ বছরের কম)। 
+- দারিদ্র্যের হার *20.৫%* । চরম দারিদ্র্যের হার *১০.৫%*
+- স্থূল জন্মহার (প্রতি হাজারে) *১৮.১ জন*
+- স্থূল মৃত্যুহার (প্রতি হাজারে) *৫.১ জন*
+- প্রতি হাজারে শিশু মৃত্যুর হার ২১ জন (১ বছরের কম), ২৮ জন (৫ বছরের কম)। 
 - জাতীয়/স্থূল জাতীয় সঞ্চয়ের হার ২৫.৪৫%  
 - দেশজ/স্থূল অভ্যন্তরীণ সঞ্চয়ের হার 21.৫৬%  
-- বিনিয়োগের হার ৩১.৬৮% । সরকারি – ৭.৬২% বেসরকারি - ২৪.০৬% । 
+- বিনিয়োগের হার *৩১.৬৮%* । সরকারি – ৭.৬২% বেসরকারি - ২৪.০৬% । 
 - আবিষ্কৃত গ্যাসক্ষেত্র  ২৮টি। সর্বশেষ জকিগঞ্জ, সিলেট । উৎপাদনরত - ২০টি ।
 - পেট্রোবাংলার সর্বশেষ প্রাক্কলন অনুযায়ী প্রাথমিক মোট মজুদ গ্যাস (Gas Initially in Place GIIP) -এর
   পরিমাণ ৩৯.৯ ট্রিলিয়ন ঘনফুট ।উত্তোলনযোগ্য প্রমাণিত ও সম্ভাব্য (2P) মজু - ২৮.৪২ ট্রিলিয়ন ঘনফুট
-- মোট স্থাপিত বিদ্যুৎ উৎপাদন ক্ষমতা ২২,০৬৬ মেগাওয়াট । (ক্যাপটিভ ও নবায়নযোগ্য জ্বালানিসহ ২৫,২৮৪ মেগাওয়াট)। 
-- মোট রাজস্ব আহরণের লক্ষ্যমাত্রা ৩,৮৯,০০০ কোটি টাকা ।এনবিআর কর্তৃক কর রাজস্ব আহরণের
+- মোট স্থাপিত বিদ্যুৎ *উৎপাদন ক্ষমতা ২২,০৬৬ মেগাওয়াট,* *(ক্যাপটিভ ও নবায়নযোগ্য জ্বালানিসহ ২৫,২৮৪ মেগাওয়াট)।* 
+- মোট রাজস্ব আহরণের লক্ষ্যমাত্রা *৩,৮৯,০০০ কোটি টাকা,* এনবিআর কর্তৃক কর রাজস্ব আহরণের
   লক্ষ্যমাত্রা - ৩,৩০,০০০ কোটি টাকা
-- মোট সরকারি ব্যয় ৫,৯৩,৫০০ কোটি টাকা। পরিচলন ব্যয় ৩,৮৫,৯৫০ কোটি টাকা,
+- মোট সরকারি ব্যয় *৫,৯৩,৫০০ কোটি টাকা,*  পরিচলন ব্যয় ৩,৮৫,৯৫০ কোটি টাকা,
   উন্নয়ন ব্যয় ২০৭,৫৫০ কোটি টাকা। 
-- করোনা ভাইরাস মোকাবেলায় সামগ্রিক অর্থনৈতিক পুনরুদ্ধারের জন্য আর্থিক প্রণোদনা প্যাকেজ ১,৮৭,৬৭৯ কোটি টাকা। 
+- করোনা ভাইরাস মোকাবেলায় সামগ্রিক অর্থনৈতিক পুনরুদ্ধারের জন্য আর্থিক প্রণোদনা প্যাকেজ *১,৮৭,৬৭৯ কোটি টাকা।* 
 
 * বাজেট ২০২২-২০২৩
-- বাজেটের ক্রম ৫১-তম। (আওয়ামী লীগ সরকারের ২৩তম)। 
-- বাজেটের স্লোগান/শিরোনাম ‘কোভিডের অভিঘাত পেরিয়ে উন্নয়নের ধারাবাহিকতায় প্রত্যাবর্তন'
-- সংসদে বাজেট উত্থাপনের তারিখ ৯ জুন, ২০২২।
-- বাজেট উত্থাপনকারী অর্থমন্ত্রী আ.হ.ম মোস্তফা কামাল (তাঁর টানা চতুর্থ বাজেট পেশ) এটি বর্তমান সরকারের টানা ১৪-তম বাজেট।
-- সংসদে বাজেট পাশ হয় ৩০ জুন, ২০২২। কার্যকর হয় ১ জুলাই, ২০২২
-- ২০২১-২২ অর্থবছরের সম্পূরক বাজেট পাস হয় ১৩ জুন, ২০২২
-- জিডিপির আকার ৪৪,৪৯,৯৫৯ কোটি টাকা
+- বাজেটের ক্রম *৫১-তম। (আওয়ামী লীগ সরকারের ২৩তম)।* 
+- বাজেটের স্লোগান/শিরোনাম *‘কোভিডের অভিঘাত পেরিয়ে উন্নয়নের ধারাবাহিকতায় প্রত্যাবর্তন'*
+- সংসদে বাজেট উত্থাপনের তারিখ *৯ জুন, ২০২২।*
+- বাজেট উত্থাপনকারী *অর্থমন্ত্রী আ.হ.ম মোস্তফা কামাল* (তাঁর টানা চতুর্থ বাজেট পেশ) এটি
+  বর্তমান সরকারের টানা ১৪-তম বাজেট।
+- সংসদে বাজেট পাশ হয় *৩০ জুন, ২০২২। কার্যকর হয় ১ জুলাই, ২০২২*
+- ২০২১-২২ অর্থবছরের সম্পূরক বাজেট পাস হয় *১৩ জুন, ২০২২*
+- জিডিপির আকার *৪৪,৪৯,৯৫৯ কোটি টাকা*
 - অনুমিত জিডিপি প্রবৃদ্ধির হার ৭.৫% (২০২১-২২ এর অর্জিত সাময়িক - ৭.২৫%)
-- বাজেটের আকার ৬,৭৮,০৬৪ কোটি টাকা। (জিডিপির ১৫.২%)। 
-- রাজস্ব প্রাপ্তি ৪,৩৩,০০০ কোটি টাকা (অনুদান ব্যতীত)। ৪,৩৬,২৭১ কোটি টাকা (অনুদান সহ )। 
-- বাজেট ঘাটতি ২,৪৫,০৬৪ কোটি টাকা (অনুদান ব্যতীত)।[জিডিপির ৫.৫ শতাংশ) ।২,৪১,৭৯৩ কোটি টাকা (অনুদান সহ )
+- বাজেটের আকার *৬,৭৮,০৬৪ কোটি টাকা। (জিডিপির ১৫.২%)।* 
+- রাজস্ব প্রাপ্তি *৪,৩৩,০০০ কোটি টাকা* (অনুদান ব্যতীত)। ৪,৩৬,২৭১ কোটি টাকা (অনুদান সহ )। 
+- বাজেট ঘাটতি *২,৪৫,০৬৪ কোটি টাকা* (অনুদান ব্যতীত)।[জিডিপির ৫.৫ শতাংশ) ।২,৪১,৭৯৩ কোটি টাকা (অনুদান সহ )
 - সর্বোচ্চ বরাদ্দ পাওয়া খাত (অনুন্নয়ন বাজেট) অর্থ বিভাগ (৩,৫৮,৮৭৪ কোটি টাকা)। 
 - সর্বোচ্চ বরাদ্দ (উন্নয়ন বাজেট) জনপ্রশাসন। (২,২১,১৪৯ কোটি টাকা)। 
-- মাথাপিছু আয় ২,৮২৪ মার্কিন ডলার । (প্রাক্কলিত- ৩,০০৭ মার্কিন ডলার)।
+- মাথাপিছু আয় *২,৮২৪ মার্কিন ডলার ।* (প্রাক্কলিত- ৩,০০৭ মার্কিন ডলার)।
 - মাথাপিছু বরাদ্দ ৪১,৯৩৩ টাকা
 - মাথাপিছু ঘাটতি ১৫,১৫৫ টাকা
-- বার্ষিক উন্নয়ন কর্মসূচী (ADP) ২,৪৬,০৬৬ কোটি টাকা (জিডিপির ৫.৬% ও বাজেটের ৩৬.৩%)
+- বার্ষিক উন্নয়ন কর্মসূচী (ADP) *২,৪৬,০৬৬ কোটি টাকা* (জিডিপির ৫.৬% ও বাজেটের ৩৬.৩%)
 - উন্নয়ন বাজেটে বরাদ্দের পরিমাণ ২,৫৯,৬১৭ কোটি টাকা
 - পরিচালন বাজেট ৪,১১,৪০৬ কোটি টাকা (ঋণ, অগ্রিম ও দেনা পরিশোধ, খাদ্য হিসাব ও কাঠামোগত সমন্বয় বাদে)
 - অনুন্নয়ন খাতে বরাদ্দের পরিমাণ ৪,৩২,০০০ কোটি টাকা
 - সামাজিক অবকাঠামো খাতে বরাদ্দ ১,৮৩,৪২৫ কোটি টাকা (মোট বাজেটের ২৭.05%)
-- অনুমিত মুদ্রাস্ফীতির হার ৫.৬%
+- অনুমিত মুদ্রাস্ফীতির হার *৫.৬%*
 
 
 *  ষষ্ঠ জনশুমারি ও গৃহগণনা ২০২২ 
 
- - জানশুমারি পরিচালনা করে - বাংলাদেশ পরিসংখ্যান ব্যুরো (BBS).
-- জনশুমারি অনুষ্ঠিত হয় - ১০ বছর পরপর।
-- ষষ্ঠ জনশুমারি ও গৃহগণনা ২০২২ অনুষ্ঠিত হয় ১৫-২১ জুন ২০২২। তবে বন্যা পরিস্থির কারণে কিছু কিছু এলাকায় ২৭ জুলাই পর্যন্ত বর্ধিত করা হয়।
-- প্রাথমিক প্রতিবেদন প্রকাশ করা হয় - ২৭ জুলাই ২০২২।
-- জনসংখ্যা - ১৬,৫১,৫৮,৬১৬ জন। পুরুষ: ৮,১৭,১২,৮২৪ জন; নারী: ৮,৩৩,৪৭,২০৬ জন; হিজড়া : ১২,৬২৯ জন। [১৭,৫০৭টি খানার ৮৫,৯৫৭ জনের আংশিক তথ্য পাওয়া গেছে, তাই মোট জনসংখ্যার সাথে লিঙ্গ ভিত্তিক জনসংখ্যার কিছুটা পার্থক্য রয়েছে।]
-- জনসংখ্যা বৃদ্ধির হার – ১.২২%
-- জনসংখ্যার ঘনত্ব প্রতি বর্গকিলোমিটারে ১,১১৯ জন
-- পুরুষ ও নারীর অনুপাত ৯৮ : ১০০
-- সাক্ষরতার হার (৭ বছর বা তদূর্ধ্ব) - ৭৪.৬৬% ।
-- খানার সংখ্যা ৪,১০,১০,০৫১ জন।
-- খানা প্রতি গড় সদস্য সংখ্যা ৪০ জন।
+ - জানশুমারি পরিচালনা করে - *বাংলাদেশ পরিসংখ্যান ব্যুরো (BBS).*
+- জনশুমারি অনুষ্ঠিত হয় - *১০ বছর পরপর।*
+- ষষ্ঠ জনশুমারি ও গৃহগণনা ২০২২ অনুষ্ঠিত হয় ১৫-২১ জুন ২০২২। তবে বন্যা পরিস্থির কারণে কিছু কিছু
+  এলাকায় ২৭ জুলাই পর্যন্ত বর্ধিত করা হয়।
+- প্রাথমিক প্রতিবেদন প্রকাশ করা হয় - *২৭ জুলাই ২০২২।*
+- জনসংখ্যা - *১৬,৫১,৫৮,৬১৬ জন।* পুরুষ: ৮,১৭,১২,৮২৪ জন;
+  নারী: ৮,৩৩,৪৭,২০৬ জন; হিজড়া : ১২,৬২৯ জন।
+  [১৭,৫০৭টি খানার ৮৫,৯৫৭ জনের আংশিক তথ্য পাওয়া গেছে,
+  তাই মোট জনসংখ্যার সাথে লিঙ্গ ভিত্তিক জনসংখ্যার কিছুটা পার্থক্য রয়েছে।]
+- জনসংখ্যা বৃদ্ধির হার – *১.২২%*
+- জনসংখ্যার ঘনত্ব প্রতি বর্গকিলোমিটারে *১,১১৯ জন*
+- পুরুষ ও নারীর অনুপাত *৯৮ : ১০০*
+- সাক্ষরতার হার (৭ বছর বা তদূর্ধ্ব) - *৭৪.৬৬% ।*
+- খানার সংখ্যা *৪,১০,১০,০৫১ জন।*
+- খানা প্রতি গড় সদস্য সংখ্যা ৪ জন।
 - প্রতিবন্ধী জনসংখ্যা- ২৩,৬১,৬০৪ জন।
-- ধর্মভিত্তিক জনসংখ্যা - মুসলমান ৯১.০৪% ; হিন্দু ৭.৯৫% ; বৌদ্ধ : ০.৬১% ; খ্রিষ্টান : ০.৩০% অন্যান্য : ০.১২%।
+- ধর্মভিত্তিক জনসংখ্যা - *মুসলমান ৯১.০৪%* ; হিন্দু ৭.৯৫% ; বৌদ্ধ : ০.৬১% ; খ্রিষ্টান : ০.৩০% অন্যান্য : ০.১২%।
 - শহর অঞ্চলে বসবাসকারি জনসংখ্যা ৫,২০,০৯,০৭২ জন।
 - গ্রাম অঞ্চলে বসবাসকারি জনসংখ্যা - ১১,৩০,৬৩,৫৮৭ জন।
 - জনসংখ্যায় বৃহত্তম বিভাগ ঢাকা; (৪,৪২,১৫,১০৭ জন)।
@@ -4422,28 +4426,150 @@ _মোটরসাইকেল বিক্রি নিম্নমুখী_
 - সিটি কর্পোরেশন হিসেবে জনসংখ্যার ঘনত্ব সবচেয়ে বেশি ঢাকা দক্ষিণ (প্রতি বর্গকিমি ৩৯,৩৫৩ জন)।
 - সিটি কর্পোরেশন হিসেবে জনসংখ্যার ঘনত্ব সবচেয়ে কম - রংপুর (প্রতি বর্গকিমি ৩,৪৪৪ জন)।
 - বিভাগ হিসেবে সাক্ষরতার হার সবচেয়ে বেশি ঢাকা বিভাগে (৭৮.০৯%)।
-- বিভাগ হিসেবে সাক্ষরতার হার সবচেয়ে কম - ময়মনসিংহ বিভাগে (7.0%)। জেলা হিসেবে সাক্ষরতার হার সবচেয়ে বেশি - পিরোজপুর (৮৫.৪১%)।
+- বিভাগ হিসেবে সাক্ষরতার হার সবচেয়ে কম - ময়মনসিংহ বিভাগে (7.0%)।
+- জেলা হিসেবে সাক্ষরতার হার সবচেয়ে বেশি - পিরোজপুর (৮৫.৪১%)।
 - জেলা হিসেবে সাক্ষরতার হার সবচেয়ে কম জামালপুর; ৬১.৫৩%। -
 - জনসংখ্যায় বৃহত্তম সিটি কর্পোরেশন – ঢাকা উত্তর (৫৯,৭৯,৫৩৭ জন)।
 - জনসংখ্যায় ক্ষুদ্রতম সিটি কর্পোরেশন বরিশাল (৪,১৯,৩৫১ জন)।
-- ক্ষুদ্র নৃ-গোষ্ঠীর সংখ্যা মোট ৫০টি। মোট ক্ষুদ্র নৃ-গোষ্ঠীর জনসংখ্যা ১৬,৫০,১৫৯ জন (পুরুষ ৮,২৪,৭৫১ জন ও নারী ৮,২৫,৪০৮ জন)।
-- শতকরা হিসেবে ক্ষুদ্র নৃ-গোষ্ঠী মোট জনসংখ্যার ০.৯৯%
-- যে ক্ষুদ্র নৃ-গোষ্ঠীর সংখ্যা সবচেয়ে বেশি চাকমা (৪,৮৩,২৯৯ জন)।
-- যে ক্ষুদ্র নৃ-গোষ্ঠীর সংখ্যা সবচেয়ে কম ভিল (৯৫ জন)।
+- *ক্ষুদ্র নৃ-গোষ্ঠীর সংখ্যা মোট ৫০টি।* মোট ক্ষুদ্র নৃ-গোষ্ঠীর জনসংখ্যা ১৬,৫০,১৫৯ জন (পুরুষ ৮,২৪,৭৫১ জন ও নারী ৮,২৫,৪০৮ জন)।
+- শতকরা হিসেবে ক্ষুদ্র নৃ-গোষ্ঠী *মোট জনসংখ্যার ০.৯৯%*
+- যে ক্ষুদ্র নৃ-গোষ্ঠীর সংখ্যা সবচেয়ে *বেশি চাকমা (৪,৮৩,২৯৯ জন)।*
+- যে ক্ষুদ্র নৃ-গোষ্ঠীর সংখ্যা সবচেয়ে *কম ভিল (৯৫ জন)।*
 - বিভাগ হিসেবে ক্ষুদ্র নৃ-গোষ্ঠীর বসবাস সবচেয়ে বেশি – চট্টগ্রাম বিভাগে (৯,৯০,৮৬০ জন)।
 - বিভাগ হিসেবে ক্ষুদ্র নৃ-গোষ্ঠীর বসবাস সবচেয়ে কম বরিশাল বিভাগে (৪,১৮১ জন)।
-- জেলা হিসেবে ক্ষুদ্র নৃ-গোষ্ঠীর বসবাস সবচেয়ে বেশি রাঙ্গামাটি জেলায় (৩,৭২,৮৬৪ জন)।
-- জেলা হিসেবে ক্ষুদ্র নৃ-গোষ্ঠীর বসবাস সবচেয়ে কম লালমনিরহাট জেলায় (১১৮ জন)।
-- বিদ্যুৎ সুবিধার প্রধান উৎস জাতীয় গ্রিড ৯৭.৬১% সৌর বিদ্যুৎ : ১.৪৫% অন্যান্য ০.১৯% বিদ্যুৎ সুবিধা নেই : ০.৭৫%
+- জেলা হিসেবে ক্ষুদ্র নৃ-গোষ্ঠীর বসবাস সবচেয়ে *বেশি রাঙ্গামাটি জেলায় (৩,৭২,৮৬৪ জন)।*
+- জেলা হিসেবে ক্ষুদ্র নৃ-গোষ্ঠীর বসবাস সবচেয়ে *কম লালমনিরহাট জেলায় (১১৮ জন)।*
+- বিদ্যুৎ সুবিধার প্রধান উৎস জাতীয় গ্রিড *৯৭.৬১% সৌর বিদ্যুৎ : ১.৪৫% অন্যান্য ০.১৯% বিদ্যুৎ সুবিধা নেই : ০.৭৫%*
 
 
 
 
+* General Knowledge from Facebook
+
+1. Champion of the Asia Cup Cricket-*Sri Lanka (Runner-up Pakistan)*
+2. The host country of Asia Cup Cricket--*Sri Lanka*.
+3. Asia Cup Cricket 2022 held in-- *UAE (United Arab Emirates)*
+4. SAFF Women Champion 2022-*Bangladesh (Runner-up Nepal)*
+5. Bangladesh defeated Nepal *by 3-1 Goals.*
+6. Bangladesh Women Team won *the SAFF Championship for the First Time.*
+7. Host country of SAFF Championship 2022--*Nepal.*
+8. SAFF--*South Asian Football Federation.*
+9. SAFF founded in *1997*
+10.BD Men Football team Won *SAFF Championship in 2003.*
+11.SAFF Championship held till now *6th times.*
+12. Who is the current Chief Election Commissioner of Bangladesh?---*Kazi Habibul Awal*
+13. The total budget size of FY 2022-23 is *Tk 678,064 crore.*
+14.General Tax free limit in Bangladesh-- *Tk. 3,00,000.*
+15.In FY 2022-23. allocation for the ADP is *Tk 2,46,066 crore*
+16. The new IGP (Inspector General of Police) of Bangladesh Police-*Chowdhury Abdullah
+    Al-Mamun*
+17.The next director general of the RAB- *M Khurshid Hossain.*
+18. What is the maximum limit of tax free personal income for female tax payer in
+    Bangladesh?-Ans: *TK 3,50,000*
+19. Who is the current Chief Justice of Bangladesh? - *Hasan Foez Siddique*
+20. Ranks of BD in the *Economic Freedom Index 2022--*137th*
+21.In the Economic Freedom Index 2022, Bangladesh is ranked *29th among 39
+   countries in the Asia-Pacific region*
+22. The licensed mobile broadcaster of the FIFA World Cup Oatar 2022-- *Banglalink.*
+23.Human Development Index rank of Bangladesh--*129th out of 191 countries
+   (1st Switzerland)*
+24.The rank of Bangladesh in the United Nations *"E-Government Development
+   Index 2022" is 111th.*
+25.The 2022 Nobel Prize in Physiology or Medicine is awarded to --Svante
+   Paabo (Swedish geneticist) for his discoveries concerning the genomes of
+   extinct hominins and human evolution.
+26.Annie Ernaux (French author) wins the 2022 Nobel prize in literature for the
+   writing *courage and clinical acuity
+27. Watchdog of international Trade - *WTO [ Founded in 1995]*
+28. Three American citizens, Ben S. Bernanke, Douglas W. Diamond and Philip
+   H. Dybvig have won the 2022 Nobel Prize in economics *"for research on
+   banks and financial crises."*
+29.ODI World Cup will be held in 2031, host country--- *Bangladesh and India.*
+30.Men's T20 World Cup in 2022 held during 16 October to 13 November,
+  host country--*Australia.*
+31.Bangladesh *ranks 84th* in the *2022 Global Hunger Index.*
+32.Bangladesh ranks *192nd in the latest ranking of FIFA.*
+33. *Bangladesh has become a member of the UN Human Rights Council*
+   (UNHRC) *for the term 2023-25* by securing the highest *160 votes* among
+   *189 cast votes* at the United Nations General Assembly in New York.
+34.Current Governor of Bangladesh Bank?-*Abdur Rouf Talukder ( 12th
+   Governor)*
+35. Recently Who is appointed as Bangabandhu Chair Professor of KUET?_.
+    Ans. Professor *DR.Khurshida Begum*
+36. What is the full form of DAP ? Ans. *Detailed Area Plan*
+37. What is the full form of DEMU ?Ans. *Diesel Electric Multiple Unit*
+38. What percent SLR for traditional and Islamic? -*SLR for traditional = 13%
+    for Islamic = 5.5%*
+39. What percent repo rate? *5.75%* 
+40. What percent special repo rate? *8.50%*
+41.What percent CRR for traditional and Islamic? - *CRR for traditional = 4%
+  Islamic 4%*
+42.Newly Appointed Secretary Relations of Economic Department (ERD).
+  *Fatima Yasmin.*
+43. Members of the new alliance 12U2-*United States, Israel, United Arab
+   Emirates and India.*
+44. What is the current SDG Score of Bangladesh for the year 2022 ? Ans. *64.22*
+45.According to the SDGs Report-2022 the *rank of Bangladesh is 104th (1st-
+  Finland and last 163rd-South Sudan)*
+46.Henley Passport Index July, 2022 the ranking of Bangladeshi passports--*104th*
+47. What is the position of Bangladesh Digital Quality of Life Index 2022?-*76th*
+48. Which country scored least at the Global Hunger Index in 2022? --*Yemen*
+49. Which institution released the 'Living Planet Report 2022 ?--*World Wide Fund*
+50. Which international organization has proposed imposing *"solidarity tax" on
+    high earners and companies? --IMF*
+
+
+* The Budapest Memorandum 5th of December 1994
 
 
 
 
+1. The Russian Federation, the United Kingdom of Great Britain and
+   Northern Ireland and the United States of America reaffirm their
+   commitment to Ukraine, in accordance with the principles of the
+   Final Act of the Conference on Security and Cooperation in Europe,
+   *to respect the independence and sovereignty and the existing
+   borders of Ukraine;*
 
+2. The Russian Federation, the United Kingdom of Great Britain and
+   Northern Ireland and the United States of America reaffirm their
+   *obligation to refrain from the threat or use of force against the
+   territorial integrity or political independence of Ukraine,* and
+   that *none of their weapons will ever be used against Ukraine* except
+   in self-defence or otherwise in accordance with the Charter of the
+   United Nations;
+
+3. The Russian Federation, the United Kingdom of Great Britain and
+   Northern Ireland and the United States of America reaffirm their
+   commitment to Ukraine, in accordance with the principles of the
+   Final Act of the Conference on Security and Cooperation in Europe,
+   to refrain from economic coercion designed to subordinate to their
+   own interest the exercise by Ukraine of the rights inherent in its
+   sovereignty and thus to secure advantages of any kind;
+
+4. The Russian Federation, the United Kingdom of Great Britain and
+   Northern Ireland and the United States of America *reaffirm their
+   commitment to seek immediate United Nations Security Council action*
+   to provide assistance to Ukraine, as a non-nuclear-weapon State
+   party to the Treaty on the Non-Proliferation of Nuclear Weapons, if
+   Ukraine should become a victim of an act of aggression or an object
+   of a threat of aggression in which nuclear weapons are used;
+
+5. The Russian Federation, the United Kingdom of Great Britain and
+   Northern Ireland and the United States of America *reaffirm, in the
+   case of Ukraine, their commitment not to use nuclear weapons*
+   against any non-nuclear- weapon State party to the Treaty on the
+   Non-Proliferation of Nuclear Weapons, except in the case of an
+   attack on themselves, their territories or dependent territories,
+   their armed forces, or their allies, by such a State association or
+   alliance with a nuclear-weapon State;
+
+6. Ukraine, the Russian Federation, the United Kingdom of Great
+   Britain and Northern Ireland and the United States of America will
+   consult in the event a situation arises that raises a question
+   concerning these commitments.
+
+This Memorandum will become applicable upon signature.
 
 
 

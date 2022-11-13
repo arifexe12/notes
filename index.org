@@ -1,3 +1,6 @@
+* [[file:data.org:: অর্থনৈতিক সমীক্ষা ২০২২-২০২৩][অর্থনৈতিক সমীক্ষা ২০২২-২০২৩]]
+* [[file:data.org:: বাজেট ২০২২-২০২৩][বাজেট ২০২২-২০২৩]]
+* [[file:data.org:: ষষ্ঠ জনশুমারি ও গৃহগণনা ২০২২][ষষ্ঠ জনশুমারি ও গৃহগণনা ২০২২]]
 * [[file:data.org::Have to Read][Have to Read]]
 * [[file:data.org::Central Bank][Central Bank]]
 * [[file:data.org::সাম্প্রতিক তথ্য ][সাম্প্রতিক তথ্য]] 
@@ -219,3 +222,5 @@
 * [[file:data.org::IMF'র ঋণ এবং বাংলাদেশ][IMF'র ঋণ এবং বাংলাদেশ]]
 * [[file:data.org:: বিদ্যুৎ সংকটে দেশে ক্ষতিকর প্রভাব ][বিদ্যুৎ সংকটে দেশে ক্ষতিকর প্রভাব]]
 * [[file:data.org:: সরকার মুদ্রাস্ফীতি কমাতে পারছে না কেন ][সরকার মুদ্রাস্ফীতি কমাতে পারছে না কেন]]
+* [[file:data.org::General Knowledge from Facebook][General Knowledge from Facebook]] 
+* [[file:data.org:: The Budapest Memorandum 5th of December 1994][The Budapest Memorandum 5th of December 1994]]
