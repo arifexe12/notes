@@ -1,4 +1,5 @@
 (global-display-line-numbers-mode)
+(setq org-startup-with-inline-images t)
 (add-to-list 'load-path "~/.emacs.d/custom")
 (add-to-list 'package-archives '("melpa" . "https://melpa.org/packages/") t)
 ;; Comment/uncomment this line to enable MELPA Stable if desired.  See `package-archive-priorities`
