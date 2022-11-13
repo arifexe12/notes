@@ -224,3 +224,4 @@
 * [[file:data.org:: সরকার মুদ্রাস্ফীতি কমাতে পারছে না কেন ][সরকার মুদ্রাস্ফীতি কমাতে পারছে না কেন]]
 * [[file:data.org::General Knowledge from Facebook][General Knowledge from Facebook]] 
 * [[file:data.org:: The Budapest Memorandum 5th of December 1994][The Budapest Memorandum 5th of December 1994]]
+* [[file:data.org:: সার্বজনীন পেনশন][সার্বজনীন পেনশন]]
