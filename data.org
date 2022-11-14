@@ -4915,7 +4915,7 @@ _পেনশন তহবিলের কিছু চ্যালেঞ্জ�
 |              |                 |   Irish pound    |
 |              |                 |     [punt])      |
 +--------------+-----------------+------------------+
-|    *Israel*    |   Jerusalem*    |      Shekel      |
+|    *Israel*    |   Jerusalem     |      Shekel      |
 +--------------+-----------------+------------------+
 |    *Italy*     |      Rome       |  Euro (formerly  |
 |              |                 |      lira)       |
@@ -5161,15 +5161,15 @@ _পেনশন তহবিলের কিছু চ্যালেঞ্জ�
 |    Uganda    |     *Kampala*     |   Ugandan new    |
 |              |                 |     shilling     |
 +--------------+-----------------+------------------+
-|   Ukraine    |      Kiev       |     Hryvnia      |
+|   Ukraine    |      *Kiev*       |     Hryvnia      |
 +--------------+-----------------+------------------+
 | United Arab  |    *Abu Dhabi*    |  U.A.E. Dirham   |
 |   Emirates   |                 |                  |
 +--------------+-----------------+------------------+
-|United Kingdom|     London      |  Pound sterling  |
+|United Kingdom|     *London*      |  Pound sterling  |
 |              |                 |                  |
 +--------------+-----------------+------------------+
-|United States | Washington D.C. |      Dollar      |
+|United States | *Washington D.C.* |      Dollar      |
 |  of America  |                 |                  |
 +--------------+-----------------+------------------+
 |   *Uruguay*    |   Montevideo    |   Uruguay peso   |
