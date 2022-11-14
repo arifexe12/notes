@@ -152,3 +152,5 @@
 (global-set-key (kbd "s-<down>")  'end-of-buffer)
 
 (global-set-key (kbd "s-<up>")  'beginning-of-buffer)
+
+(add-hook 'after-find-file (lambda() (interactive) ((org-toggle-pretty-entities)) ))
