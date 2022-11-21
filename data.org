@@ -5404,3 +5404,262 @@ goals are urgently required. Based on the above progress status, the
 government needs to reformulate goal-wise action plans to foster the
 progress and give a combined drive to achieve SDGs by 2030.
 
+1) *SDG 1 : End poverty in all its forms everywhere*
+   
+   1) _NPT 1_ Reduce the proportion of population living below extreme
+      poverty line below 3% (SDG Indicator 1.2.1) *[10.5% source:Er]*
+   2) _NPT 2_ Reduce the proportion of population living below national
+      poverty line below 10% (SDG Indicator 1.2.1) *[20.5% source:Er]*
+      
+2) *SDG 2 : End hunger, achieve food security and improved nutrition
+   and promote sustainable agriculture*
+   
+   1) _NPT 3_ Reduce the prevalence of stunting among children under 5
+      years of age to 12% (SDG Indicator 2.2.1) *[28.0%]*
+   2) _NPT 4_ Ensure the proportion of cultivable land at a minimum of
+      55% of the total land area *[61.5% source:Wb]*
+      
+3) *SDG 3 : Ensure healthy lives and promote well-being for all at all
+   ages*
+   
+   1) _NPT 5_ Reduce neonatal mortality rate to 12 per 1,000 live births
+      (SDG Indicator 3.2.2) *[16.0%]*
+   2) _NPT 6_ Reduce under-5 mortality rate to 25 per 1,000 live births
+      (SDG Indicator 3.2.1) *[ 29% ]*
+   3) _NPT 7_ Reduce the maternal mortality ratio to 70 per 100,000 live
+      births (SDG Indicator 3.1.1) *[ 163.0]*
+   4) _NPT 8_ Reduce death rate due to road traffic injuries to 1.2 per
+      100,000 people (SDG Indicator 3.6.1)
+      
+4) *SDG 4 : Ensure inclusive and equitable quality education and
+   promote lifelong learning opportunities for all*
+   
+   1) _NPT 9_  Ensure 100% completion rate of primary education *[98.52%]*
+   2) _NPT 10_ Ensure 100% completion rate of junior secondary education *[92.89%]*
+   3) _NPT 11_ Ensure the proportion of students in technical level above
+      20% to the total students passed every year in the secondary education
+      (SSC, Dakhil, and Vocational)
+   4) _NPT 12_ Ensure the proportion of schools by 100% with access to the
+      following: A. Electricity B. Internet C. Basic drinking water D. Single-sex
+      basic sanitation facilities (SDG Indicator 4.a.1)
+   5) _NPT 13_ Ensure the proportion of schools by 100% with access to adapted
+      infrastructure and materials for the child/ students with disability
+      (SDG Indicator 4.a.1)
+      
+5) *SDG 5 : Achieve gender equality and empower all women and girls*
+   
+   1) _NPT 14_ Reduce the proportion of women aged 20-24 years who were
+      married before age 15 to zero (SDG Indicator 5.3.1) *[ 29.0%]*
+   2) _NPT 15_ Reduce the proportion of women aged 20-24 years who were
+      married before age 18 to 10% (SDG Indicator 5.3.1) *[52.0%]*
+   3) _NPT 16_ Increase the female labor force participation rate to 50% *[34.87% source:wb]*
+      
+6) *SDG 6 : Ensure availability and sustainable management of water and
+   sanitation for all*
+   
+   1) _NPT 17_ Ensure 100% population using safely managed drinking
+      water services (SDG Indicator 6.1.1) *[47.9% source:un]*
+   2) _NPT 18_ Ensure 100% population using safely managed sanitation
+      services (SDG Indicator 6.2.1) *[84.6% source:un]*
+      
+7) *SDG 7 : Ensure access to affordable, reliable, sustainable and
+   modern energy for all*
+   
+   1) _NPT 19_ Ensure access to electricity for 100% population (SDG
+      Indicator 7.1.1) [100%]
+   2) _NPT 20_ Increase renewable energy share in total final energy
+      consumption to 10% (SDG Indicator 7.2.1)
+      
+8) *SDG 8 : Promote sustained, inclusive and sustainable economic
+   growth, full and productive employment and decent work for all*
+   
+   1) _NPT 21_ Increase annual growth rate of GDP to 10% (SDG Indicator
+      8.1.1) *[5.74%]*  
+   2) _NPT 22_ Reduce unemployment rate below 3% (SDG Indicator 8.5.2) *[4.2%]*
+   3) _NPT 23_ Reduce the proportion of youth population (15-29 years)
+      not in education, employment or training to 10% (SDG Indicator
+      8.6.1)
+      
+9) *SDG 9 : Build resilient infrastructure, promote inclusive and
+   sustainable industrialization and foster innovation*
+   
+   1) _NPT 24_ Ensure 100 percent pucca roads (suitable for all seasons)
+      (SDG Indicator 9.1.1)
+   2) _NPT 25_ Increase Industry (manufacturing) value added as a
+      proportion of GDP to 35% (SDG Indicator 9.2.1)
+   3) _NPT 26_ Increase manufacturing employment as a proportion of
+      total employment to 25% (SDG Indicator 9.2.2) *[20.4%]* 
+   4) _NPT 27_ Increase the number of entrepreneurs ten times in the
+      Information and Communication Technology sector
+      
+10) *SDG 10 : Reduce inequality within and among countries*
+    
+    1) _NPT 28_ Reduce the ratio of income of top 10% population and
+       bottom 10% population to 20 *[37.8%]* 
+    2) _NPT 29_ Reduce the recruitment cost borne by employee as a
+       proportion of yearly income earned in a country of destination
+       to 10% (SDG Indicator 10.7.1)
+       
+11) *SDG 11 : Make cities and human settlements inclusive, safe,
+    resilient and sustainable*
+    
+    1) _NPT 30_  Ensure women, children, elderly and persons with
+       disabilities have convenient access to public transport
+       (minimum 20% seats) (SDG Indicator 11.2.1)
+       
+12) *SDG 12 : Ensure sustainable consumption and production patterns*
+    
+    1) _NPT 31_ Ensure 100% industries install and operate waste
+       management system *[ 60%]* 
+       
+13) *SDG 13 : Take urgent action to combat climate change and its
+    impacts*
+    
+    1) _NPT 32_ Reduce the number of deaths, missing persons and
+       directly affected persons attributed to disasters to 1500 per
+       100,000 population (SDG Indicator 13.1.1) *[4318]*
+       
+14) *SDG 14 : Conserve and sustainably use the oceans, seas and marine
+    resources for sustainable development*
+    
+    1) _NPT 33_ Expand the coverage of protected areas in relation to
+       marine areas by 5% (SDG Indicator 14.5.1) *[8.8%]*
+       
+15) *SDG 15 : Protect, restore and promote sustainable use of
+    terrestrial ecosystems, sustainably manage forests, combat*
+    *desertification, and halt and reverse land degradation and halt
+    biodiversity loss*
+    
+    1) _NPT 34_ Enhance forest area as a proportion of total land area
+       to 18% (SDG Indicator 15.1.1) *[14.1000%]*
+    2) _NPT 35_ Increase the area of tree-covered land by 25% in
+       relation to the total land area *[22.0000%]*
+       
+16) *SDG 16 : Promote peaceful and inclusive societies for sustainable
+    development, provide access to justice for all and build*
+    *effective, accountable and inclusive institutions at all levels*
+    
+    1) _NPT 36_ Increase the proportion of children under 5 years of age
+       whose births have been registered with a civil authority to
+       100% (SDG Indicator 16.9.1)
+    2) _NPT 37_ Increase the proportion of complaint Settlement against
+       cognizance of cases by National Human Rights Commission to 60%
+       
+17) *SDG 17 : Strengthen the means of implementation and revitalize the
+    Global Partnership for Sustainable Development*
+    
+    1) _NPT 38_ Increase total government revenue as a proportion of GDP
+       to 20% (SDG Indicator 17.1.1) *[Present revenue to GDP ratio 9.4% 2021]*
+    2) _NPT 39_ Increase the proportion of individuals using the
+       Internet to 100% (SDG Indicator 17.8.1)[The total number of Internet
+       *Subscribers has reached 123.82 Million at the end of December, 2021 :: 43.5000%]*
+
+
+* প্রধানমন্ত্রীর ১০ উদ্যোগ
+
+- সবার জন্য বিদ্যুৎ
+- সামাজিক নিরাপত্তা কর্মসূচি
+- পরিবেশ সুরক্ষা
+- শিক্ষা সহায়তা
+- বিনিয়োগ বিকাশ
+- কমিউনিটি ক্লিনিক ও শিশু বিকাশ
+- নারীর ক্ষমতায়ন
+- আশ্রয়ণ
+- আমার বাড়ি আমার খামার
+- ডিজিটাল বাংলাদেশ
+
+
+
+* উদ্যোগ-১ : আমার বাড়ি আমার খামার ও পল্লী সঞ্চয় ব্যাংক
+
+গ্রামের দরিদ্র মানুষের ভাগ্য উন্নয়নে ‘আমার বাড়ি আমার খামার' প্রকল্প আজ একটি
+বিপ্লবে পরিণত হয়েছে।
+
+এ প্রকল্পের ভিশন হলো নিজস্ব পুঁজি গঠন ও বিনিয়োগে কৃষি উৎপাদন বৃদ্ধি ও
+জীবিকায়নের মাধ্যমে দারিদ্র্য নিরসন ও টেকসই উন্নয়ন ।
+
+“আমার বাড়ি আমার খামার' প্রকল্পটির ১ জুলাই ২০১৬ পর্যন্ত অংশ ‘পল্লী সঞ্চয়
+ব্যাংক' নামে যাত্রা শুরু করেছে এবং বর্তমান চলমান অংশ সমাপ্তির পরও প্রকল্পের
+বাকি অংশের সদস্য ও সম্পদ বর্ণিত ব্যাংকে স্থানান্তরিত হবে। এ ব্যাংকের ৪৯%
+অংশের মালিক প্রকল্পের উপকারভোগীগণ ।
+
+এ উদ্যোগের ফলে প্রকল্পভুক্ত পরিবারের বার্ষিক আয় বৃদ্ধি পেয়েছে, প্রকল্প এলাকায়
+নিম্ন পরিবারের সংখ্যা ১৫% থেকে হ্রাস পেয়ে ৩% হয়েছে।
+
+* আশ্রয়ণ প্রকল্প
+
+৩টি পর্যায় : ১৯৯৭-২০২০
+
+৩,১৯,১৪০টি পরিবার পুনর্বাসিত
+
+১৩১১টি প্রকল্প গ্রামে বিদ্যুৎ সংযোগ
+
+ ১৫,৫৪,৬৭৪টি বৃক্ষরোপণ
+
+ ২১৭২টি প্রকল্প গ্রামে জমি আছে ঘর নাই-এ রকম ১,৫৩,৭৭৭টি পরিবারের জন্য গৃহ নিৰ্মাণ
+
+** খুরুশকুল বিশেষ আশ্রয়ণ প্রকল্প
+
+৪,৪০৯টি জলবায়ু উদ্বাস্তু পরিবার পুনর্বাসনের জন্য ২০১৪-১৫ অর্থবছরে প্রকল্প গ্রহণ
+করা হয়।
+
+প্রধানমন্ত্রীর কার্যালয়ের অধীন আশ্রয়ণ-২ প্রকল্পের আওতায় মুজিববর্ষে মাননীয়
+প্রধানমন্ত্রীর উপহার হিসেবে ২০টি বহুতল ভবনে ৬৪০টি পরিবার পুনর্বাসন
+
+করা হচ্ছে।
+
+অবশিষ্ট ১১৯টি বহুতল ভবন পৃথক ডিপিপি'র মাধ্যমে সশস্ত্র বাহিনী বিভাগ কর্তৃক
+ বাস্তবায়িত হবে
+
+ আশ্রয়ণ-৩ প্রকল্প
+
+** নোয়াখালীর ভাসানচরে
+
+১,০৩,০০০ জনের পুনর্বাসনের অবকাঠামো নির্মাণাধীন রয়েছে, যা ২০২১ সালের
+নভেম্বরে সমাপ্ত হবে ।
+
+
+ঘূর্ণিঝড় ও নদী ভাঙনে ছিন্নমূল অসহায় পরিবারের পুনর্বাসন আশ্রয়ণ প্রকল্পের প্রধান
+লক্ষ্য ।
+
+জাতির পিতা বঙ্গবন্ধু শেখ মুজিবুর রহমান ঘূর্ণিদুর্গত মানুষের জন্য নোয়াখালীতে
+(বর্তমান লক্ষ্মীপুর জেলার অংশ) ‘গুচ্ছগ্রাম’ গড়েছিলেন। একই দৃষ্টান্ত সামনে রেখে
+মাননীয় প্রধানমন্ত্রী শেখ হাসিনা ১৯৯৭-এর কক্সবাজার সংলগ্ন উপকূলীয় এলাকায়
+ঘূর্ণিঝড়ে গৃহহীন মানুষের জন্য আশ্রয়ণ (প্রকল্প) গড়ে তোলেন।
+
+স্থানীয় প্রশাসন এবং সশস্ত্র বাহিনীর যৌথ সহায়তায় গড়ে উঠেছে আশ্রয়ণ প্রকল্পের
+ভৌত অবকাঠামো।
+
+ দরিদ্র জনগোষ্ঠীকে ঋণ ও প্রশিক্ষণদানের মাধ্যমে স্বাবলম্বী করে তোলা আশ্রয়ণ
+প্রকল্পের অন্যতম লক্ষ্য ।
+
+
+* উদ্যোগ-৩: ডিজিটাল বাংলাদেশ
+
+জনগণের দোরগোড়ায় অনলাইনে রাষ্ট্রীয় সেবা পৌঁছানো এ প্রকল্পের মূল লক্ষ্য—যাতে
+ভোগান্তিবিহীন, দুর্নীতিমুক্ত ও স্বচ্ছতার সাথে স্বল্পতম সময়ে জনগণের কাছে সেবা
+পৌঁছানো যায় ।
+
+ডিজিটাল সেন্টার
+
+৬,৬৮৬টি ডিজিটাল সেন্টার (ইউনিয়ন, পৌরসভা ও সিটি কর্পোরেশন)
+
+২৭২ ধরনের সেবা
+
+৫৪০ মিলিয়ন সেবা
+
+মোবাইল সেবা, ইন্টারনেট সেবা সাধারণ মানুষের নাগালের মধ্যে পৌঁছানো এবং
+সরকারি যাবতীয় তথ্য ও সেবাকে ওয়েবসাইটের মাধ্যমে জনগণের কাছে তুলে ধরা এ
+উদ্যোগের অন্যতম লক্ষ্য। -
+
+
+* উদ্যোগ-৪ : শিক্ষা সহায়তা কর্মসূচি
+
+বঙ্গবন্ধু শিক্ষাকে সর্বোচ্চ অগ্রাধিকার দিয়েছিলেন। তাঁর উদ্যোগে যুদ্ধবিধ্বস্ত
+স্বাধীন বাংলাদেশে ৩৬ হাজার ১৬৫টি প্রাথমিক বিদ্যালয় জাতীয়করণ করা হয়। এই
+ধারাবাহিকতায় বঙ্গবন্ধুর সুযোগ্য কন্যা মাননীয় প্রধানমন্ত্রী শেখ হাসিনা শিক্ষা
+সহায়তা কর্মসূচি বাস্তবায়নের বিশেষ উদ্যোগ গ্রহণ করেছেন, যার সুফল লাভ করছে
+শিক্ষার্থীরা
+
+
+
