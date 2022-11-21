@@ -227,3 +227,6 @@
 * [[file:data.org:: সার্বজনীন পেনশন][সার্বজনীন পেনশন]]
 * [[file:data.org::Capital & Currency][Capital & Currency]]
 * [[file:data.org::২০২৩ সাল সংকটের বছরের শঙ্কা, একগুচ্ছ নির্দেশনা মন্ত্রিসভার][২০২৩ সাল সংকটের বছরের শঙ্কা, একগুচ্ছ নির্দেশনা মন্ত্রিসভার]]
+* [[file:data.org::বিদ্যুৎ সঙ্কট][বিদ্যুৎ সঙ্কট]]
+* [[file:data.org::নেপালের নির্বাচন][নেপালের নির্বাচন]]    
+* [[file:data.org::Bangladesh and SDG Progress][Bangladesh and SDG Progress]]

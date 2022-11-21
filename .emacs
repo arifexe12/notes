@@ -153,4 +153,13 @@
 
 (global-set-key (kbd "s-<up>")  'beginning-of-buffer)
 
+(global-set-key (kbd "s-f")  'isearch-forward-thing-at-point)
+
+(global-set-key (kbd "s-b")  'org-mark-ring-goto)
+
 (add-hook 'after-find-file (lambda() (interactive) ((org-toggle-pretty-entities)) ))
+
+(defun check-spelling(start end) 
+  (interactive "r" )
+  (if(= start end)()())
+  )
