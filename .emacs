@@ -45,7 +45,7 @@
 		  (interactive) 
 		  ( if (string-equal system-type "windows-nt" ) 
 		      (call-process-shell-command
-		       "C:/Users/50766/AppData/Local/Programs/Git/git-bash.exe"
+		       "C:/Users/50766/AppData/Local/Programs/Git/git-bash.exe  C:/Users/50766/Desktop/notes/upload.sh"
 		       "C:/Users/50766/Desktop/notes/upload.sh" (get-buffer-create "Git Output") t ) 
 		    (call-process-shell-command  "~/Desktop/notes/upload.sh" nil (get-buffer-create
 										  "Git Output") t))))
