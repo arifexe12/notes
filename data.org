@@ -1,4 +1,24 @@
 
+* SDG 17 Goals
+
+ 1) No Poverty
+ 2) Zero Hunger
+ 3) Good Health and Well-being
+ 4) Quality Education
+ 5) Gender Equality
+ 6) Clean Water and Sanitation
+ 7) Affordable and Clean Energy
+ 8) Decent Work and Economic Growth
+ 9) Industry, Innovation and Infrastructure
+ 10) Reduced Inequality
+ 11) Sustainable Cities and Communities
+ 12) Responsible Consumption and Production
+ 13) Climate Action
+ 14) Life Below Water
+ 15) Life on Land
+ 16) Peace, Justice and Strong Institutions
+ 17) Partnerships to achieve the Goal
+
 * সাম্প্রতিক তথ্য
 
  1) মোহাম্মদ বিন নায়েফকে ক্রাউন প্রিন্সের পদ থেকে সরিয়ে নিজে ক্ষমতা নেন
@@ -833,26 +853,6 @@ _IMF থেকে বাংলাদেশের ঋণ গ্রহণ:_
 ** সপ্তদশ সংশোধনী: নারী আসন
 এই সংশোধনীর মাধ্যমে ৫০টি সংরক্ষিত নারী আসন আরও ২৫ বছর বহাল
 রাখার বিধান আনা হয়েছে।
-
-* SDG 17 Goals
-
- 1) No Poverty
- 2) Zero Hunger
- 3) Good Health and Well-being
- 4) Quality Education
- 5) Gender Equality
- 6) Clean Water and Sanitation
- 7) Affordable and Clean Energy
- 8) Decent Work and Economic Growth
- 9) Industry, Innovation and Infrastructure
- 10) Reduced Inequality
- 11) Sustainable Cities and Communities
- 12) Responsible Consumption and Production
- 13) Climate Action
- 14) Life Below Water
- 15) Life on Land
- 16) Peace, Justice and Strong Institutions
- 17) Partnerships to achieve the Goal
 
 * সংবিধানের তফসিল সমূহ
 
@@ -5367,7 +5367,7 @@ goals are urgently required. Based on the above progress status, the
 government needs to reformulate goal-wise action plans to foster the
 progress and give a combined drive to achieve SDGs by 2030.
 
-1) *SDG 1 : End poverty in all its forms everywhere*
+1) *SDG 1 : End poverty in all its forms everywhere* _[No Poverty]_
    
    1) _NPT 1_ Reduce the proportion of population living below extreme
       poverty line below 3% (SDG Indicator 1.2.1) *[10.5% source:Er]*
@@ -5375,7 +5375,7 @@ progress and give a combined drive to achieve SDGs by 2030.
       poverty line below 10% (SDG Indicator 1.2.1) *[20.5% source:Er]*
       
 2) *SDG 2 : End hunger, achieve food security and improved nutrition
-   and promote sustainable agriculture*
+   and promote sustainable agriculture* [ Zero Hunger]
    
    1) _NPT 3_ Reduce the prevalence of stunting among children under 5
       years of age to 12% (SDG Indicator 2.2.1) *[28.0%]*
@@ -5383,7 +5383,7 @@ progress and give a combined drive to achieve SDGs by 2030.
       55% of the total land area *[61.5% source:Wb]*
       
 3) *SDG 3 : Ensure healthy lives and promote well-being for all at all
-   ages*
+   ages* _[Good Health and Well-being]_
    
    1) _NPT 5_ Reduce neonatal mortality rate to 12 per 1,000 live births
       (SDG Indicator 3.2.2) *[16.0%]*
@@ -5395,7 +5395,7 @@ progress and give a combined drive to achieve SDGs by 2030.
       100,000 people (SDG Indicator 3.6.1)
       
 4) *SDG 4 : Ensure inclusive and equitable quality education and
-   promote lifelong learning opportunities for all*
+   promote lifelong learning opportunities for all* _[Quality Education]_
    
    1) _NPT 9_  Ensure 100% completion rate of primary education *[98.52%]*
    2) _NPT 10_ Ensure 100% completion rate of junior secondary education *[92.89%]*
@@ -5409,7 +5409,7 @@ progress and give a combined drive to achieve SDGs by 2030.
       infrastructure and materials for the child/ students with disability
       (SDG Indicator 4.a.1)
       
-5) *SDG 5 : Achieve gender equality and empower all women and girls*
+5) *SDG 5 : Achieve gender equality and empower all women and girls* _[Gender Equality]_
    
    1) _NPT 14_ Reduce the proportion of women aged 20-24 years who were
       married before age 15 to zero (SDG Indicator 5.3.1) *[ 29.0%]*
@@ -5418,7 +5418,7 @@ progress and give a combined drive to achieve SDGs by 2030.
    3) _NPT 16_ Increase the female labor force participation rate to 50% *[34.87% source:wb]*
       
 6) *SDG 6 : Ensure availability and sustainable management of water and
-   sanitation for all*
+   sanitation for all* [Clean Water and Sanitation]
    
    1) _NPT 17_ Ensure 100% population using safely managed drinking
       water services (SDG Indicator 6.1.1) *[47.9% source:un]*
@@ -5426,7 +5426,7 @@ progress and give a combined drive to achieve SDGs by 2030.
       services (SDG Indicator 6.2.1) *[84.6% source:un]*
       
 7) *SDG 7 : Ensure access to affordable, reliable, sustainable and
-   modern energy for all*
+   modern energy for all* _[Affordable and Clean Energy]_
    
    1) _NPT 19_ Ensure access to electricity for 100% population (SDG
       Indicator 7.1.1) [100%]
@@ -5435,6 +5435,7 @@ progress and give a combined drive to achieve SDGs by 2030.
       
 8) *SDG 8 : Promote sustained, inclusive and sustainable economic
    growth, full and productive employment and decent work for all*
+   _[Decent Work and Economic Growth]_
    
    1) _NPT 21_ Increase annual growth rate of GDP to 10% (SDG Indicator
       8.1.1) *[5.74%]*  
@@ -5445,6 +5446,7 @@ progress and give a combined drive to achieve SDGs by 2030.
       
 9) *SDG 9 : Build resilient infrastructure, promote inclusive and
    sustainable industrialization and foster innovation*
+   _[Industry, Innovation and Infrastructure]_
    
    1) _NPT 24_ Ensure 100 percent pucca roads (suitable for all seasons)
       (SDG Indicator 9.1.1)
@@ -5455,7 +5457,7 @@ progress and give a combined drive to achieve SDGs by 2030.
    4) _NPT 27_ Increase the number of entrepreneurs ten times in the
       Information and Communication Technology sector
       
-10) *SDG 10 : Reduce inequality within and among countries*
+10) *SDG 10 : Reduce inequality within and among countries* _[Reduced Inequality]_
     
     1) _NPT 28_ Reduce the ratio of income of top 10% population and
        bottom 10% population to 20 *[37.8%]* 
@@ -5464,26 +5466,26 @@ progress and give a combined drive to achieve SDGs by 2030.
        to 10% (SDG Indicator 10.7.1)
        
 11) *SDG 11 : Make cities and human settlements inclusive, safe,
-    resilient and sustainable*
+    resilient and sustainable* _[Sustainable Cities and Communities]_
     
     1) _NPT 30_  Ensure women, children, elderly and persons with
        disabilities have convenient access to public transport
        (minimum 20% seats) (SDG Indicator 11.2.1)
        
 12) *SDG 12 : Ensure sustainable consumption and production patterns*
-    
+    _[Responsible Consumption and Production]_    
     1) _NPT 31_ Ensure 100% industries install and operate waste
        management system *[ 60%]* 
        
 13) *SDG 13 : Take urgent action to combat climate change and its
-    impacts*
+    impacts* _[Climate Action]_
     
     1) _NPT 32_ Reduce the number of deaths, missing persons and
        directly affected persons attributed to disasters to 1500 per
        100,000 population (SDG Indicator 13.1.1) *[4318]*
        
 14) *SDG 14 : Conserve and sustainably use the oceans, seas and marine
-    resources for sustainable development*
+    resources for sustainable development* [Life Below Water]
     
     1) _NPT 33_ Expand the coverage of protected areas in relation to
        marine areas by 5% (SDG Indicator 14.5.1) *[8.8%]*
@@ -5491,7 +5493,7 @@ progress and give a combined drive to achieve SDGs by 2030.
 15) *SDG 15 : Protect, restore and promote sustainable use of
     terrestrial ecosystems, sustainably manage forests, combat*
     *desertification, and halt and reverse land degradation and halt
-    biodiversity loss*
+    biodiversity loss* _[Life on Land]_
     
     1) _NPT 34_ Enhance forest area as a proportion of total land area
        to 18% (SDG Indicator 15.1.1) *[14.1000%]*
@@ -5501,7 +5503,7 @@ progress and give a combined drive to achieve SDGs by 2030.
 16) *SDG 16 : Promote peaceful and inclusive societies for sustainable
     development, provide access to justice for all and build*
     *effective, accountable and inclusive institutions at all levels*
-    
+    _[Peace, Justice and Strong Institutions]_    
     1) _NPT 36_ Increase the proportion of children under 5 years of age
        whose births have been registered with a civil authority to
        100% (SDG Indicator 16.9.1)
@@ -5510,6 +5512,7 @@ progress and give a combined drive to achieve SDGs by 2030.
        
 17) *SDG 17 : Strengthen the means of implementation and revitalize the
     Global Partnership for Sustainable Development*
+    _[Partnerships to achieve the Goal]_ 
     
     1) _NPT 38_ Increase total government revenue as a proportion of GDP
        to 20% (SDG Indicator 17.1.1) *[Present revenue to GDP ratio 9.4% 2021]*
@@ -5631,29 +5634,28 @@ _ডিজিটাল সেন্টার_
 
 * উদ্যোগ-৫ : নারীর ক্ষমতায়ন
 
-সকল ক্ষেত্রে বৈষম্য দূর করে নারীর অংশগ্রহণের সুযোগ সৃষ্টি, পারিবারিক ও সামাজিক
-সিদ্ধান্ত গ্রহণে নারীর সম্পৃক্ততা বৃদ্ধি, শিক্ষা ও কর্মে অংশগ্রহণের সুযোগ সৃষ্টি,
-বৈষম্য ও সহিংসতা প্রতিরোধ এবং আইন, বিধি প্রণয়ন ও প্রতিষ্ঠান স্থাপনের মাধ্যমে
-নারীর ক্ষমতায়নের উদ্যোগ গ্রহণ করা হয়েছে।
+*সকল ক্ষেত্রে বৈষম্য দূর করে নারীর অংশগ্রহণের সুযোগ সৃষ্টি, পারিবারিক ও সামাজিক
+সিদ্ধান্ত গ্রহণে নারীর সম্পৃক্ততা বৃদ্ধি, শিক্ষা ও কর্মে অংশগ্রহণের সুযোগ সৃষ্টি,*
+*বৈষম্য ও সহিংসতা প্রতিরোধ এবং আইন, বিধি প্রণয়ন ও প্রতিষ্ঠান স্থাপনের মাধ্যমে
+নারীর ক্ষমতায়নের উদ্যোগ গ্রহণ করা হয়েছে।*
 
-I ■ নারীর সার্বিক উন্নয়ন নিশ্চিত করতে প্রণয়ন করা হয়েছে ‘জাতীয় নারী উন্নয়ন
-নীতিমালা ২০১১', পারিবারিক সহিংসতা (প্রতিরোধ ও সুরক্ষা) আইন-২০১০,
-পারিবারিক সহিংসতা (প্রতিরোধ ও সুরক্ষা) বিধিমালা-২০১৩, ডিঅক্সিরাইবো নিউক্লিক
-অ্যাসিড (ডিএনএ) আইন-২০১৪, বাল্যবিবাহ নিরোধ আইন-২০১৭ ইত্যাদি।
+I ■ নারীর সার্বিক উন্নয়ন নিশ্চিত করতে প্রণয়ন করা হয়েছে *‘জাতীয় নারী উন্নয়ন
+নীতিমালা ২০১১',* *পারিবারিক সহিংসতা (প্রতিরোধ ও সুরক্ষা) আইন-২০১০,*
+*পারিবারিক সহিংসতা (প্রতিরোধ ও সুরক্ষা) বিধিমালা-২০১৩, ডিঅক্সিরাইবো নিউক্লিক
+অ্যাসিড (ডিএনএ) আইন-২০১৪, বাল্যবিবাহ নিরোধ আইন-২০১৭ ইত্যাদি।*
 
-■ দেশব্যাপী ১২ হাজার ৯৫৬টি পল্লী মাতৃস্বাস্থ্য কেন্দ্রের মাধ্যমে সুবিধাবঞ্চিত
+■ দেশব্যাপী *১২ হাজার ৯৫৬টি পল্লী মাতৃস্বাস্থ্য কেন্দ্রের* মাধ্যমে সুবিধাবঞ্চিত
 নারীদের শিক্ষা, স্বাস্থ্য, পুষ্টি, মা ও শিশুর যত্নসহ যাবতীয় বিষয়ে উদ্বুদ্ধকরণ
 সুদমুক্ত ক্ষুদ্রঋণ প্রদান করা হচ্ছে।
 
-২০১৯-২০ অর্থবছরের বাজেট
+_২০১৯-২০ অর্থবছরের বাজেট_
+*জেন্ডার সেনসিটিভ বাজেট (৩১%)*
+*অন্যান্য (৬৯%)*
 
-জেন্ডার সেনসিটিভ বাজেট (৩১%)
-অন্যান্য (৬৯%)
+বেতনসহ মাতৃত্বকালীন *ছুটি ৪ মাস থেকে ৬ মাসে* উন্নীত করা হয়েছে।
 
-বেতনসহ মাতৃত্বকালীন ছুটি ৪ মাস থেকে ৬ মাসে উন্নীত করা হয়েছে।
-
-■ জনজীবনের সকল ক্ষেত্রে নারীর অংশগ্রহণ নিশ্চিত করার জন্য বর্তমান সরকার ২০০৯
-সাল থেকে পর্যায়ক্রমে জেন্ডার রেসপনসিভ বাজেট প্রণয়ন শুরু করে।
+■ জনজীবনের সকল ক্ষেত্রে নারীর অংশগ্রহণ নিশ্চিত করার জন্য বর্তমান *সরকার ২০০৯
+সাল থেকে পর্যায়ক্রমে জেন্ডার রেসপনসিভ বাজেট প্রণয়ন শুরু করে।*
 
 * উদ্যোগ-৬ : ঘরে ঘরে বিদ্যুৎ
 
@@ -5704,30 +5706,30 @@ _২০০৯ এর আগে ও পরে বিদ্যুৎ_
 করায় বিগত দশকে দেশের অর্থনীতির গতি ত্বরান্বিত হওয়ার পাশাপাশি ক্রমাগতভাবে
 দারিদ্র্যের হার হ্রাস পেয়েছে।
 
-খানা জরিপ অনুযায়ী ২০১০ থেকে ২০১৬ পর্যন্ত সময়কালে দারিদ্র্যের হার শতকরা ৩১.৫
-ভাগ থেকে হ্রাস পেয়ে শতকরা ২৪.৩ ভাগে এসে দাঁড়িয়েছে। একই সময়ে অতি
-দারিদ্র্যের হার শতকরা ১৭.৬ ভাগ থেকে কমে হয়েছে শতকরা ১২.৯ ভাগ ।
-সাম্প্রতিককালে প্রকাশিত 'টেকসই উন্নয়ন অভীষ্ট বাংলাদেশ অগ্রগতি প্রতিবেদন ২০২০'
-অনুযায়ী দারিদ্র্য হ্রাসের এই ধারা অব্যাহত থাকায় ২০১৯ সালে দারিদ্র্যের হার
-২০.৫ শতাংশে এবং অতি দারিদ্র্যের হার ১০.৫ শতাংশে দাঁড়িয়েছে।
+খানা জরিপ অনুযায়ী *২০১০ থেকে ২০১৬ পর্যন্ত সময়কালে দারিদ্র্যের হার শতকরা ৩১.৫
+ভাগ থেকে হ্রাস পেয়ে শতকরা ২৪.৩ ভাগে* এসে দাঁড়িয়েছে। *একই সময়ে অতি
+দারিদ্র্যের হার শতকরা ১৭.৬ ভাগ থেকে কমে হয়েছে শতকরা ১২.৯ ভাগ* ।
+সাম্প্রতিককালে প্রকাশিত *'টেকসই উন্নয়ন অভীষ্ট বাংলাদেশ অগ্রগতি প্রতিবেদন ২০২০'*
+অনুযায়ী দারিদ্র্য হ্রাসের এই ধারা অব্যাহত থাকায় *২০১৯ সালে দারিদ্র্যের হার
+২০.৫ শতাংশে এবং অতি দারিদ্র্যের হার ১০.৫ শতাংশে দাঁড়িয়েছে।*
 
 উন্নয়নশীল অর্থনীতি থেকে উত্তরণের পর্যায়ে পুঁজি গঠনের কারণে সচরাচর ধনী-গরিবের
 মধ্যে বৈষম্য ক্রমাগতভাবে বাড়তে থাকে। উন্নয়নের এ পর্যায়ে সমাজের মূল স্রোতে
 দরিদ্র জনগোষ্ঠীকে সম্পৃক্ত করা যে-কোনো দেশের জন্য একটা বড় চ্যালেঞ্জ। এ চ্যালেঞ্জ
-মোকাবিলায় মাননীয় প্রধানমন্ত্রী সামাজিক নিরাপত্তা কর্মসূচিকে তাঁর দশটি
-অগ্রাধিকার কর্মসূচির অন্তর্ভুক্ত করার মাধ্যমে দেশের আপামর জনগণের প্রতি তিনি
+মোকাবিলায় মাননীয় প্রধানমন্ত্রী *সামাজিক নিরাপত্তা কর্মসূচিকে তাঁর দশটি
+অগ্রাধিকার কর্মসূচির অন্তর্ভুক্ত করার মাধ্যমে* দেশের আপামর জনগণের প্রতি তিনি
 অপরিসীম দায়িত্ববোধ এবং যথার্থ প্রজ্ঞা ও দূরদর্শিতার স্বাক্ষর রেখেছেন। এক
-হিসেবে দেখা গেছে সরকার সামাজিক নিরাপত্তা কর্মসূচি গ্রহণ না করলে দারিদ্র্যের
-হার অন্তত শতকরা ১.৫ ভাগ বেশি হতো ভাতা প্রাপ্তদের কর্মবিমুখতা এড়াতে গুরুত্ব
+হিসেবে দেখা গেছে *সরকার সামাজিক নিরাপত্তা কর্মসূচি গ্রহণ না করলে দারিদ্র্যের
+হার অন্তত শতকরা ১.৫ ভাগ বেশি হতো* ভাতা প্রাপ্তদের কর্মবিমুখতা এড়াতে গুরুত্ব
 দেওয়া হয়েছে কর্মসৃজনকে। এছাড়াও এসব কর্মসূচিতে আঞ্চলিক বৈষম্য হ্রাসের মাধ্যমে
 এলাকাভিত্তিক সমতা নিশ্চিত করার চেষ্টা করা হয়েছে। সর্বোপরি সামাজিক নিরাপত্তা
 কর্মসূচি সংক্রান্ত সকল কর্মকাণ্ডের কার্যকর সমন্বয় এবং এর মাধ্যমে দ্রুততার সাথে
-দারিদ্র্য বিমোচন ও সামাজিক সমতা প্রতিষ্ঠার লক্ষ্যে সরকার ২০১৫ সালে জাতীয়
-সামাজিক নিরাপত্তা নীতি-কৌশল (National Social Security Strategy, NSSS)
+*দারিদ্র্য বিমোচন ও সামাজিক সমতা প্রতিষ্ঠার লক্ষ্যে সরকার ২০১৫ সালে জাতীয়
+সামাজিক নিরাপত্তা নীতি-কৌশল* *(National Social Security Strategy, NSSS)*
 প্রণয়ন করেছে। জাতীয় সামাজিক নিরাপত্তা নীতি-কৌশলে জীবনচক্রভিত্তিক সামাজিক
 নিরপত্তা কর্মসূচি প্রণয়ন ও বাস্তবায়নে গুরুত্ব দেওয়া হয়েছে। গবেষণায় দেখা গিয়েছে
-যে, জীবনচক্রভিত্তিক সামাজিক নিরাপত্তা কর্মসূচি গ্রহণ করা হলে দারিদ্র্যের হার
-আরও শতকরা ৪.৭ ভাগ কমানো সম্ভব । এ কারণে সরকার ক্রমান্বয়ে জীবনচক্রভিত্তিক
+*যে, জীবনচক্রভিত্তিক সামাজিক নিরাপত্তা কর্মসূচি গ্রহণ করা হলে দারিদ্র্যের হার
+আরও শতকরা ৪.৭ ভাগ কমানো সম্ভব* । এ কারণে সরকার ক্রমান্বয়ে জীবনচক্রভিত্তিক
 সামাজিক নিরপত্তা কর্মসূচি প্রণয়ন ও বাস্তবায়নে নিরলসভাবে কাজ করে যাচ্ছে।
 
 * উদ্যোগ-৯ : বিনিয়োগ বিকাশ
