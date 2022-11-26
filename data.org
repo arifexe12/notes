@@ -1,4 +1,27 @@
+* Present State of IT Sector
 
+- Domestic market size *1400 million+* *USD* _[1000 million = 1 billion]_
+- Growth in domestic market 2010-2018 *40%*
+- Export income in 2019 *1000 million+* *USD*
+- Growth in Export 2013-2019 *21%*
+- Forecasted growth in domestic market size *2018-2025 22%*
+- IT /ITES firms *4500*
+- ICT professionals *750000+*
+- Registered freelances *650000+*
+- BPO market size *2018 300 million* *USD*
+- Growth in BPO services *2012-2018 71%*
+- Ecommerce market size *2020 2500 million+* *USD*
+- Estimated Ecommerce market size in *2023 3600 million+* *USD*
+- Wireless phone subscribers *September 2021 180 million+* *USD*
+- Internet users *September 2021 128 million+*
+- Engaged in *social network 2021 62 million*
+- Smart phone users *2020 68 million+*
+- No. of active *mobile financial account 40 million*
+- *34th* in *National Cyber Security Index*
+- *53rd* in *Global Cybersecurity Index*
+- *147th* in *ICT Development Index*
+- *95th* in *Networked Readiness Index*
+  
 * SDG 17 Goals
 
  1) No Poverty
@@ -1131,7 +1154,7 @@ _IMF থেকে বাংলাদেশের ঋণ গ্রহণ:_
 - [[ ১০৯। আদালতসমূহের উপর তত্ত্বাবধান ও নিয়ন্ত্রণ][১০৯। আদালতসমূহের উপর তত্ত্বাবধান ও নিয়ন্ত্রণ]]
 - [[ ১১০। অধস্তন আদালত হইতে হাইকোর্ট বিভাগে মামলা স্থানান্তর][১১০। অধস্তন আদালত হইতে হাইকোর্ট বিভাগে মামলা স্থানান্তর]]
 - [[১১১। সুপ্রীম কোর্টের রায়ের বাধ্যতামূলক কার্যকরতা][১১১। সুপ্রীম কোর্টের রায়ের বাধ্যতামূলক কার্যকরতা]]
-- [[ ১১২। সুপ্রীম কোর্টের সহায়তা][১১২। সুপ্রীম কোর্টের সহায়তা]]
+- [[ ১১২। সুপ্রীম কোর্টের সহায়তা][১১২। সুপ্রীম কোর্টের সহায়তা]] 
 - [[ ১১৩। সুপ্রীম কোর্টের কর্মচারীগণ][১১৩। সুপ্রীম কোর্টের কর্মচারীগণ]]
 - [[১১৪। অধস্তন আদালত-সমূহ প্রতিষ্ঠা][১১৪। অধস্তন আদালত-সমূহ প্রতিষ্ঠা]]
 - [[১১৫। অধস্তন আদালতে নিয়োগ][১১৫। অধস্তন আদালতে নিয়োগ]]
