@@ -37,3 +37,4 @@
 * [[file:data.org::Bangladesh and SDG Progress][Bangladesh and SDG Progress]]
 * [[file:data.org::প্রধানমন্ত্রীর ১০ উদ্যোগ][প্রধানমন্ত্রীর ১০ উদ্যোগ]]
 * [[file:data.org:: Present State of IT Sector][Present State of IT Sector]]
+* [[file:data.org:: জিএসপি প্লাস][জিএসপি প্লাস]]
