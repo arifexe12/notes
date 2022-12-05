@@ -1,0 +1,75 @@
+#!/bin/bash
+
+function print_time()
+{
+    width=$1
+    content=$(date|awk '{print $4}')
+    content_size=${#content}
+    if [ $content_size -le $width ]; then	
+    go_forward=$((($width-$content_size)/2))
+    tput cuf $go_forward
+    printf "$content"
+    tput cub $(($go_forward+$content_size))
+    fi
+}
+
+
+function create_table()
+{
+    tput civis
+    line_passed=0
+    row=$1
+    column=$2
+
+row=$(($row+1))
+for ((i=1; i<=${row}; i++)) ; do
+    tput sc
+    cols=$(tput cols)
+    printf "%*s" "$cols" " "| tr " " "-"
+    tput rc
+    tput sc
+    tput cud 1
+    if [ $i -lt $row ]; then
+    for ((j=0;j<=$column;j++));do
+	width=$((($cols-$column)/$column))
+	printf "|"
+	if [ $j -lt $column ];then
+	   print_time $width
+	fi
+	if [ $j -eq $(($column-1)) ];then
+	      
+	      width=$(($width+($cols-($width*$column))))
+	      
+	fi
+	   
+	tput cuf $width
+    done
+    fi
+    tput rc	
+    tput cud 2
+    line_passed=$(($line_passed+2))
+   
+    done
+	tput cuu $line_passed
+        tput cnorm
+}
+
+if [ -n $1 ] && [ -n $2 ]; then
+    while true;
+    do	
+    create_table $1 $2
+    sleep 1
+    done
+else
+    while true;
+    do
+	
+    create_table 4 4
+    sleep 1
+    done
+    
+
+fi
+
+
+

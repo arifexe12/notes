@@ -6247,10 +6247,10 @@ _বাংলাদেশ জিএসপি প্লাস সুবিধা 
 নিজেদের মধ্যে হলেও সে আলোচনা এখনই শুরু করা উচিত।
 
 
-* Papers required [85%]
+* Papers required [100%]
  - [X] TDS certificate
  - [X] Savings Certificate
- - [ ] NID Copy
+ - [X] NID Copy
  - [X] E-Tin Copy
  - [X] Challan Copy
  - [X] PF Certificate
