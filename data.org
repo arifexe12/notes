@@ -142,13 +142,14 @@ progress and give a combined drive to achieve SDGs by 2030.
 1) *SDG 1 : End poverty in all its forms everywhere* _[No Poverty]_
    
    1) _NPT 1_ Reduce the proportion of population living below extreme
-      poverty line _(The new extreme poverty line of $2.15 per person
+      poverty *[Bangladesh has no valid measurement for extreme proverty
+      it is based on verbal consent]* line _(The new extreme poverty line of $2.15 per person
       per day, which replaces the $1.90. $3.2 and $5.5 for lower and_
       _upper middle income country)_ below 3% (SDG Indicator 1.2.1)
       *[10.5% source:Er]*
    2) _NPT 2_ Reduce the proportion of population living below national
-      poverty line *(still $1.9)* below 10% (SDG Indicator 1.2.1) *[20.5%
-      source:Er]*
+      poverty line *(still $1.9 or 85-90 Tk(PPP))* below 10% (SDG Indicator
+      1.2.1) *[20.5% source:Er]*
       
 2) *SDG 2 : End hunger, achieve food security and improved nutrition
    and promote sustainable agriculture* _[ Zero Hunger]_
@@ -174,7 +175,8 @@ progress and give a combined drive to achieve SDGs by 2030.
    promote lifelong learning opportunities for all* _[Quality Education]_
    
    1) _NPT 9_  Ensure 100% completion rate of primary education *[98.52%]*
-   2) _NPT 10_ Ensure 100% completion rate of junior secondary education *[92.89%]*
+   2) _NPT 10_ Ensure 100% completion rate of junior secondary education
+      *[92.89%]*
    3) _NPT 11_ Ensure the proportion of students in technical level above
       20% to the total students passed every year in the secondary education
       (SSC, Dakhil, and Vocational)
@@ -293,7 +295,8 @@ progress and give a combined drive to achieve SDGs by 2030.
     _[Partnerships to achieve the Goal]_ 
     
     1) _NPT 38_ Increase total government revenue as a proportion of GDP
-       to 20% (SDG Indicator 17.1.1) *[Present revenue to GDP ratio 9.4% 2021]*
+       to 20% (SDG Indicator 17.1.1) *[Present revenue to GDP ratio 9.4%
+       2021]*
     2) _NPT 39_ Increase the proportion of individuals using the
        Internet to 100% (SDG Indicator 17.8.1)[The total number of Internet
        *Subscribers has reached 123.82 Million at the end of December, 2021 :: 60.4%]*
