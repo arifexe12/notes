@@ -1,0 +1,84 @@
+#!/bin/bash
+function get_devices()
+{
+    devices=$(adb devices 2>&1 |awk 'NF == 2 {print $1}')
+    if [ -n $devices ]; then
+	echo $devices
+    fi
+    
+}
+
+
+function stop_sound()
+{
+    	pids=$(pidof adb)
+	s_pids=$(pidof scrcpy)
+	pids=($pids)
+	s_pids=($s_pids)
+
+	for s_pid in $s_pids;do
+	    echo $s_pid
+	    counter=0
+	    until [ -z $? ] || [ $counter -gt 10 ] ; do
+		kill -9 $s_pid  > /dev/null 2>&1
+		sleep .1
+		counter=$(($counter+1))
+       
+	    done
+	done
+	
+	for pid in $pids;do
+	    echo $pid
+	    counter=0
+	     until [ -z $? ] || [ $counter -gt 10 ] ; do
+		 kill -9 $pid  > /dev/null 2>&1
+		 sleep .1
+		 counter=$(($counter+1))
+	    done
+	done
+}
+
+
+case $1 in
+    -start)
+	tput sc
+	printf "%-*s" "50"  " " | tr " " "."
+	tput rc
+        printf "%s\n" "Wating for connections"
+	while [ -z $(get_devices) ] ; do
+	    sleep 1
+	done
+	tmux new -d sndcpy &
+	tmux new -d scrcpy -m 2560 &
+	tput sc
+	printf "%-*s" "50"  " " | tr " " "."
+	tput rc
+	printf "%s\n"   "Screencast started"
+	;;
+    
+    -stop)
+	tput sc
+	printf "%-*s" "50"  " " | tr " " "."
+	tput rc
+	printf "%s\n"   "Shutting Down all connections"
+	for (( i = 0 ; i < 3; i++ )) ; do
+	    stop_sound
+	    sleep 1
+	done
+
+		tput sc
+	printf "%-*s" "50"  " " | tr " " "."
+	tput rc
+	printf "%s\n"   "Disconnected Successfully"
+	
+	;;
+    
+    *)
+	
+	echo -e "Invalid Option: Use \n screencast -start\nOr\nscreencast -stop"
+	;;
+    
+esac
+
+
+
