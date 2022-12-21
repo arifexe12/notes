@@ -6296,15 +6296,28 @@ _বাংলাদেশ জিএসপি প্লাস সুবিধা 
 নিজেদের মধ্যে হলেও সে আলোচনা এখনই শুরু করা উচিত।
  
 
-* Papers required [100%]
- - [X] TDS certificate
- - [X] Savings Certificate
- - [X] NID Copy
- - [X] E-Tin Copy
- - [X] Challan Copy
- - [X] PF Certificate
- - [X] Tax Papers
+* Process required [100%]
+- [X] Month End
+- [X] Investment Profit
+- [X] PSR
+- [X] Deposit Profit
+- [X] Service Charge Deduction
+- [X] SMS Charge
+- [X] CASA Excise Duty
+- [X] MTDR Excise Duty
+- [X] SSP Excise Duty
+- [X] Investment Excise Duty
+- [X] CL Process
+- [X] CIB Process
+- [X] SBS Process
+- [X] Year End
 
 *  বিসিএস  ভাইভা
  - [[https://www.youtube.com/watch?v=yPJuM7CfMwE][Zero Covid Policy]]
- - [[https://www.youtube.com/watch?v=cjEr4yazwkM][Sanction On RAB]] 
+ - [[https://www.youtube.com/watch?v=cjEr4yazwkM][Sanction On RAB]]
+   
+* Account Problem
+- 0801211002853  Agrabad branch
+- 2115222000014  Shriatpur Branch
+- 4814221000029  Naogaon Branch
+- 5419211000028  New Court Building Br Rangamati 
