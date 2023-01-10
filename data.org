@@ -531,8 +531,8 @@ progress and give a combined drive to achieve SDGs by 2030.
  139) IPEF এর পূর্ণরূপ - *Indo-Pacific Economic Framework for Prosperity.*
  140) শ্রীলংকার পূর্বনাম ছিল সিলোন।
  141) ভারতের প্রথম আদিবাসী প্রেসিডেন্ট দ্রৌপদী মুর্মু যে সম্প্রদায়ের সাঁওতাল।
- 142) উন্মুক্ত বলকান এর সদস্য দেশ তিনটি – আলবেনিয়া, উত্তর মেসিডোনিয়া ও সার্বিয়া।
- 143) Partners in the Blue Pacific (PBP) ভুক্ত পাঁচটি দেশ – যুক্তরাষ্ট্র, যুক্তরাজ্য, অস্ট্রেলিয়া, জাপান ও নিউজিল্যান্ড।
+ 142) উন্মুক্ত বলকান এর সদস্য দেশ তিনটি – *আলবেনিয়া, উত্তর মেসিডোনিয়া ও সার্বিয়া।*
+ 143) Partners in the Blue Pacific (PBP) ভুক্ত পাঁচটি দেশ – *যুক্তরাষ্ট্র, যুক্তরাজ্য, অস্ট্রেলিয়া, জাপান ও নিউজিল্যান্ড।*
  144) চীনকে মোকাবিলায় বৈশ্বিক অবকাঠামো ও বিনিয়োগ অংশীদ্বারিত্ব (PGII) প্রকল্প গ্রহণ করে যে সংস্থা - G7
  145) ১৯-২১ মে ২০২৩, ৪৯তম G-7 শীর্ষ সম্মেলন অনুষ্ঠিত হবে যে শহরে - হিরোশিমা, জাপান।
  146) ওডেসা যে দেশের সমুদ্র বন্দর - ইউক্রেন।
@@ -545,7 +545,7 @@ progress and give a combined drive to achieve SDGs by 2030.
  153) ২৫ জুন ২০২২ কমনওয়েলথের ৫৫ ও ৫৬ তম সদস্য দেশ হিসেবে সদস্যপদ লাভ করে যথাক্রমে- গ্যাবন ও টোগো।
  154) ব্রিটিশ শাসনাধীন না হয়েও কমনওয়েলথের সদস্যদেশ চারটি মোজাম্বিক, গ্যাবন, রুয়ান্ডা ও টোগো।
  155) ICSID এর বর্তমান সদস্য দেশ - ১৫৭টি (সর্বশেষ কিরগিজিস্তান)।
- 156) ইসরায়েলের বর্তমান প্রধানমন্ত্রী ইয়ার লাপিদ।
+ 156) ইসরায়েলের বর্তমান প্রধানমন্ত্রী ইয়ার লাপিদ।(চেঞ্জ হয়ে গেছে)
  157) ২০২২ সালে যে দুটি দেশ ব্রিকসের সদস্যপদের জন্য আবেদন করে - আর্জেন্টিনা ও ইরান।
  158) Abenomics এর প্রবক্তা - শিনজো আবে (জাপান)।
  159) মুদ্রাস্ফীতি নিয়ন্ত্রণে বাজারে 'স্বর্ণমুদ্রা' চালু করে যে দেশ - জিম্বাবুয়ে।
@@ -559,7 +559,7 @@ progress and give a combined drive to achieve SDGs by 2030.
  166) ইউরোপের বৃহত্তম পারমাণবিক বিদ্যুৎকেন্দ্র জাপোরিঝিয়া পারমাণবিক বিদ্যুৎকেন্দ্র।
  167) ২৫ জুলাই, ২০২২ ক্রমবর্ধমান মুদ্রাস্ফীতি নিয়ন্ত্রণে বাজারে স্বর্ণমুদ্রা ছাড়ে জিম্বাবুয়ে।
  168) বিশ্বের সর্বোচ্চ রেল সেতু চেনাব সেতু (ভারত)।
- 169) (১ মে ২০২২ Resilience and Sustainability Trust (RST) প্রতিষ্ঠা করে আন্তর্জাতিক মুদ্রা তহবিল (IMF).
+ 169) ১ মে ২০২২ Resilience and Sustainability Trust (RST) প্রতিষ্ঠা করে আন্তর্জাতিক মুদ্রা তহবিল (IMF).
  170) মির (Mir) পেমেন্ট কার্ড যে দেশভিত্তিক রাশিয়া।
  171) সম্প্রতি যে দেশ নিষিক্ত ডিম্বাণু-শুক্রাণু ছাড়াই ভ্রুণ তৈরি করেছে - ইসরায়েল।
  172) দক্ষিণ কোরিয়া চাঁদের কক্ষপথে যে অরবিটার উৎক্ষেপণ করে দানুরি (Danuri).
@@ -6321,3 +6321,23 @@ _বাংলাদেশ জিএসপি প্লাস সুবিধা 
 - 2115222000014  Shriatpur Branch
 - 4814221000029  Naogaon Branch
 - 5419211000028  New Court Building Br Rangamati 
+* Foreign  Affairs Related
+ - Total Missions in Bangladesh (35 ambassy +11 high comission) 46
+ - Total Missions of Bangladesh in Abroad
+   ( *9 in Africa[9 country]*
+   + *9 in America[5 country 5 in USA]*
+   + *7 in Asia and East Asia[4 countries 2 in Australia 3 in China]*
+   + *6 in CIS and East Europe[5 countries 2 in Turkey]*
+   + *12 in South Asia[6 countries 6 in india 2 in Pakisthan]*
+   + *9 in South East Asia[8 countries 2 in Mynmar]*
+   + *12 in West Asia[ 11 countries UAE 2]*
+   + *16 in EU[14 countries 3 in UK 2 in Italy]).*
+   ---------------------------------------------------
+   _Total 80 Missions And Consulates_
+ - *H.E. Majid Halim, Ambassador of the Kingdom of Morocco* &
+   *Dean of the Diplomatic Corps in Bangladesh.*
+ - Russian Ambassador in Bangladesh *Aleksandr Mantytsky*
+ - American Ambassador in Bangladesh *Peter D. Haas.*
+ - British High Commissioner to Bangladesh *Robert Chatterton Dickson*
+ - High Commissioner of India to Bangladesh *Pranay Verma*
+ - মোস্তাফিজুর রহমান ভারতে বাংলাদেশের হাই কমিশনার । 
