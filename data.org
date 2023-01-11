@@ -747,6 +747,7 @@ progress and give a combined drive to achieve SDGs by 2030.
       স্থগিতের কথা জানিয়েছে।
  263) *রোহিঙ্গাদের* বিরুদ্ধে ধর্মীয় বিদ্বেষ ছড়ানোর জন্য আলোচিত–সমালোচিত *বৌদ্ধ ভিক্ষু আশিন উইরাথু*  কে *‘থাইরি পিয়ানছি’*
       পুরস্কার দেওয়ার কথা জানানো হয়
+ 264) *ওপেনএআইয়ের* সহপ্রতিষ্ঠাতা ও *প্রধান নির্বাহী স্যাম অ্যাল্টম্যান*
  
 * আঞ্চলিক বাণিজ্য চুক্তি (RTA ) নীতি, ২০২২
 
@@ -6402,11 +6403,6 @@ _বাংলাদেশ জিএসপি প্লাস সুবিধা 
  - [[https://www.youtube.com/watch?v=yPJuM7CfMwE][Zero Covid Policy]]
  - [[https://www.youtube.com/watch?v=cjEr4yazwkM][Sanction On RAB]]
    
-* Account Problem
-- 0801211002853  Agrabad branch
-- 2115222000014  Shriatpur Branch
-- 4814221000029  Naogaon Branch
-- 5419211000028  New Court Building Br Rangamati 
 * Foreign  Affairs Related
  - Total Missions in Bangladesh (35 ambassy +11 high comission) 46
  - Total Missions of Bangladesh in Abroad
@@ -6426,4 +6422,6 @@ _বাংলাদেশ জিএসপি প্লাস সুবিধা 
  - American Ambassador in Bangladesh *Peter D. Haas.*
  - British High Commissioner to Bangladesh *Robert Chatterton Dickson*
  - High Commissioner of India to Bangladesh *Pranay Verma*
- - মোস্তাফিজুর রহমান ভারতে বাংলাদেশের হাই কমিশনার ।
+ - *মোস্তাফিজুর রহমান* ভারতে বাংলাদেশের হাই কমিশনার ।
+ - Ambassador of Myanmar to the People's Republic of Bangladesh  *U Aung Kyaw Moe*
+ - Ambassador of Bangladesh to USA *H.E.Mr. *Tareq Md Ariful Islam*
