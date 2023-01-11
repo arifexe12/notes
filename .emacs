@@ -152,5 +152,5 @@
 (global-set-key (kbd "s-<up>")  'beginning-of-buffer)
 (global-set-key (kbd "C-SPC")  'isearch-forward-thing-at-point)
 
-
 (add-hook 'after-find-file (lambda() (interactive) ((org-toggle-pretty-entities)) ))
+(put 'upcase-region 'disabled nil)

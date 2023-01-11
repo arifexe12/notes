@@ -751,7 +751,53 @@ progress and give a combined drive to achieve SDGs by 2030.
  265) *On 22 July 2022,* an agreement was brokered by the United Nations
       and Türkiye to open a safe maritime humanitarian corridor in the
       Black Sea *(the Black Sea Grain Initiative)*
- 
+ 266) over 500 ships full of grain and other foodstuffs left ukranian
+      port after *The Black Sea Grain Initiative.*
+ 267) *As of 2 December 2022, over 12 million tonnes* of grain and other
+      foodstuffs have been exported via *the Black Sea Grain Initiative.*
+
+* Least Developed , Developing and Developed Coutries Criteria
+For the 2023 fiscal year, *low-income economies are those with a [[GNI][GNI]]
+per capita of $1085 or less.* For example, countries like Afghanistan,
+North Korea, Ethiopia, and Uganda are in this
+category. *Lower-middle-income economies have a [[GNI][GNI]] per capita between
+$1,086 and $4,255.* This category includes countries like India,
+Vietnam, Nigeria, Zimbabwe, Ukraine, El Salvador, and
+Honduras. *Upper-middle-income economies have a [[GNI][GNI]] per capita between
+$4,256 and $13,205* and include Argentina, Ecuador, Cuba, Brazil,
+Russia, China, Thailand,Montenegro, and South Africa. *Developed Countries has
+per capita [[GNI][GNI]] more than $13,206*. *Criterias for graduating from least developed
+countries [[ GNI][GNI]] $1230 or above(Bangladesh has $1277)* , *HAI 66 or above(Bangladesh
+has 72.8) **,EVI(Economic Vulnerability Index) 32 or below(Bangladesh has 25).*
+
+* GNI
+The gross national income, previously known as gross national product,
+is the total domestic and foreign output claimed by residents of a
+country, consisting of gross domestic product, plus factor incomes
+earned by foreign residents, minus income earned in the domestic
+economy by nonresidents.
+GNI=GDP+(EX_FS - IM_FS) 
+GNI = gross national income
+GDP =	gross domestic product
+EX_FS = money flowing from foreign countries
+IM_FS = money flowing to foreign countries
+
+* HDI
+The Human Development Index is a statistic composite index of life
+expectancy, education, and per capita income indicators, which is used
+to rank countries into four tiers of human development. *(Bangladesh 129th
+out of 191 countries.HDI score of Bangladesh 0.661)*
+_HDI measures 3 things_
+ - Life Expectancy index(less than 20 is 0 and greater than 85 is 1)
+ - Education Index(15 years of schooling 0 and 18 years of schooling 18)
+ - [[GNI][GNI]] Index(1 when GNI per capita is $75,000 and equal to 0 when GNI per capita is $100)
+_HDI classification (value):_
+Low (< 0.550)
+Medium (0.550-0.699)
+High (0.700-0.799)
+Very high (≥ 0.800)
+
+
 * আঞ্চলিক বাণিজ্য চুক্তি (RTA ) নীতি, ২০২২
 
     প্রেক্ষিত পরিকল্পনা ২০২১-২০৪১-এ বাংলাদেশ ২০৩১ সালের মধ্যে একটি উচ্চ মধ্যম
