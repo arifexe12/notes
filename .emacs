@@ -154,3 +154,4 @@
 
 (add-hook 'after-find-file (lambda() (interactive) ((org-toggle-pretty-entities)) ))
 (put 'upcase-region 'disabled nil)
+(put 'downcase-region 'disabled nil)
