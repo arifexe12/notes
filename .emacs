@@ -49,7 +49,7 @@
 		  (interactive) 
 		  ( if (string-equal system-type "windows-nt" ) 
 		      (call-process-shell-command
-		       "C:/Users/Space-X/AppData/Local/Programs/Git/git-bash.exe"
+		       "C:/Program Files/Git/git-bash.exe"
 		       "C:/Users/Space-X/Desktop/notes/upload.sh" (get-buffer-create "Git Output") t ) 
 		    (call-process-shell-command  "~/Desktop/notes/upload.sh" nil (get-buffer-create
 										  "Git Output") t))))
