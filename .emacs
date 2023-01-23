@@ -50,7 +50,7 @@
 		  ( if (string-equal system-type "windows-nt" ) 
 		      (call-process-shell-command
 		       "C:/Program Files/Git/git-bash.exe"
-		       "C:/Users/Space-X/Desktop/notes/upload.sh" (get-buffer-create "Git Output") t ) 
+		       "./upload.sh" (get-buffer-create "Git Output") t ) 
 		    (call-process-shell-command  "~/Desktop/notes/upload.sh" nil (get-buffer-create
 										  "Git Output") t))))
 (tool-bar-mode -1)
