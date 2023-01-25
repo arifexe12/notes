@@ -270,7 +270,7 @@ progress and give a combined drive to achieve SDGs by 2030.
        marine areas by 5% (SDG Indicator 14.5.1) *[2.5%(excluding hilsa egg laying area)
        7.94%(including),8.8% according to un]*
        
-15) *SDG 15 : Protect, restore and promote sustainable use of
+ 15) *SDG 15 : Protect, restore and promote sustainable use of
     terrestrial ecosystems, sustainably manage forests, combat*
     *desertification, and halt and reverse land degradation and halt
     biodiversity loss* _[Life on Land]_
