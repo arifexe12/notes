@@ -32,12 +32,12 @@
   *8. Bangladesh – 27%*
   1. Russia – 20%
   2. Serbia – 19%
-- Pillar of Digital Bangladesh
-  1. Human Resource Development,
+- *Pillar of Digital Bangladesh*
+  1. Human Resource Development
   2. Digital Government
   3. Connecting Citizen
   4. ICT in Business
-- Pillar Of Smart Bangladesh
+- *Pillar Of Smart Bangladesh*
   1. Smart Citizens
   2. Smart Government
   3. Smart Economy 
@@ -799,7 +799,10 @@ progress and give a combined drive to achieve SDGs by 2030.
       সম্প্রতি দূতাবাসের সামনে *রাসমুস পালুদান* নামের এক ব্যক্তি কোরআন শরিফে আগুন দিয়েছেন।
       পালুদান ডেনমার্কের কট্টর ডানপন্থী রাজনৈতিক দল হার্ড লাইনের নেতা।
  278) মিয়ানমারের পররাষ্ট্রমন্ত্রী *থান শোয়ে।*
- 279) যুক্তরাজ্যের *প্রতিরক্ষামন্ত্রী বেন ওয়ালেস* 
+ 279) যুক্তরাজ্যের *প্রতিরক্ষামন্ত্রী বেন ওয়ালেস*
+ 280) ভূমিকম্পটির উৎপত্তিস্থল ছিল সিরিয়ার সীমান্তবর্তী তুরস্কের
+      *গাজিয়ানতেপ* শহরের কাছে। এর মাত্রা ছিল *৭ দশমিক ৮।*
+ 281)  *পূর্ব আনাতোলিয়ান ফল্ট* এর কারণে এই ভূমিকম্প হয় । 
 
 * Least Developed , Developing and Developed Coutries Criteria
 For the 2023 fiscal year, *low-income economies are those with a [[GNI][GNI]]
@@ -6549,3 +6552,23 @@ _বাংলাদেশ জিএসপি প্লাস সুবিধা 
  - Ambassador of Bangladesh to _Soudi Arabia_ *H.E. Dr. Mohammad Javed Patwary, BPM (Bar) (Ambassador & Permanent Representative to OIC)*
  - Ambassador of Bangladesh to _Srilanka_ *Tareq Md Ariful Islam*
  - Ambassador of Bangladesh to _Pakisthan_ *Md. Ruhul Alam Siddique*
+
+* Aspire to Innovate (a2i)
+Aspire to Innovate (a2i) (Bengali: এটুআই) of the ICT Division and the
+Cabinet Division supported by UNDP, a special programme of the
+government’s Digital Bangladesh agenda, is a key driver of the
+nation’s goal of becoming a developed country by 2041 and in achieving
+the 2030 Sustainable Development Goals. a2i leverages and facilitates
+public service innovation to ensure digital transformation of the
+public sector and its citizen-centered approach has taken a number of
+services to the doorsteps of citizens to improve their livelihoods.[1]
+
+* Access to Information (a2i)
+Access to Information (Bengali: এটুআই) of the Prime Minister's Office
+(now redefined as "Aspire to Innovate" and the program moved under ICT
+Division) was a programme of the government's Digital Bangladesh
+agenda which specializes in introducing citizen-centric public service
+innovation to simplify public service delivery and improve the lives
+of citizens by increasing transparency, improving governance and
+reducing the time, difficulty and costs of obtaining government
+services.
