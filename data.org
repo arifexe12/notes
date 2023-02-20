@@ -782,8 +782,8 @@ progress and give a combined drive to achieve SDGs by 2030.
  270) *জেনারেল গেরাজিমভ* রাশিয়ার ইউক্রেইন অভিযানের প্রধান।
  271) সরকার শ খানেক হাইটেক পার্ক প্রতিষ্ঠার লক্ষ্য নিয়ে কাজ
       করছে। এর মধ্যে চালু হয়েছে ১০টি।মুনাফার ৩০ শতাংশ পাবে সরকার।
- 272) ইউক্রেনের প্রেসিডেন্ট ভলোদিমির জেলেনস্কির উপদেষ্টা ওলেকসি
-      আরেস্তোভিচ নিজের বিতর্কিত এক বক্তব্যকে ঘিরে সমালোচনার
+ 272) ইউক্রেনের প্রেসিডেন্ট ভলোদিমির জেলেনস্কির উপদেষ্টা *ওলেকসি
+      আরেস্তোভিচ* নিজের বিতর্কিত এক বক্তব্যকে ঘিরে সমালোচনার
       মুখে পদত্যাগের প্রস্তাব দিয়েছেন।
  273) রূপপুর পারমাণবিক বিদ্যুৎকেন্দ্রের সরঞ্জাম খালাস না করেই ভারতের
       জলসীমা ছেড়ে গেছে মার্কিন নিষেধাজ্ঞায় থাকা রুশ জাহাজ
@@ -830,7 +830,7 @@ progress and give a combined drive to achieve SDGs by 2030.
       *মহারাজা স্কুল প্রাঙ্গণে মুক্তিযোদ্ধা ট্রানজিট ক্যাম্পে* এক আকস্মিক
       মাইন বিস্ফোরণে একসঙ্গে শহীদ হন মুক্তিযুদ্ধের বিজয় ছিনিয়ে
       আনা পাঁচ শতাধিক মুক্তিযোদ্ধা। আহত হয়ে পঙ্গুত্ববরণ করেন অনেকে।
- 297) বেতবুনিয়া বাংলাদেশের রাঙ্গামাটি জেলার অন্তর্গত কাউখালী উপজেলার একটি ইউনিয়ন।
+ 297) বেতবুনিয়া বাংলাদেশের রাঙ্গামাটি জেলার অন্তর্গত *কাউখালী উপজেলার একটি ইউনিয়ন।*
  298) বাজেটে তথ্য ও প্রযুক্তি খাতে বরাদ্দ ধরা হয়েছে *১ হাজার ৯১৬ কোটি টাকা।*
       যা গত অর্থবছরের চেয়ে ২৭৪ কোটি টাকা বেশি।
  299) তথ্যপ্রযুক্তি খাতের রপ্তানি *আয় ১৪০ কোটি মার্কিন ডলার।* 
@@ -6577,11 +6577,14 @@ _বাংলাদেশ জিএসপি প্লাস সুবিধা 
  - British High Commissioner to Bangladesh *Robert Chatterton Dickson*
  - High Commissioner of India to Bangladesh *Pranay Verma*
  - *মোস্তাফিজুর রহমান* ভারতে বাংলাদেশের হাই কমিশনার ।
- - Ambassador of Myanmar to the People's Republic of Bangladesh  *U Aung Kyaw Moe*
+ - Ambassador of Myanmar to the People's Republic of
+   Bangladesh  *U Aung Kyaw Moe*
  - Ambassador of Bangladesh to _USA_ *H.E. Mr. Muhammad Imran*
  - Ambassador of Bangladesh to _Japan_ *H.E. Mr. Shahabuddin Ahmed*
- - Ambassador of Bangladesh to _Mynmar_ *Mr. A. S. M. Sayem(Counsellor & Head of Chancery)*
- - Ambassador of Bangladesh to _Soudi Arabia_ *H.E. Dr. Mohammad Javed Patwary, BPM (Bar) (Ambassador & Permanent Representative to OIC)*
+ - Ambassador of Bangladesh to _Mynmar_ *Mr. A. S. M. Sayem(Counsellor
+   & Head of Chancery)*
+ - Ambassador of Bangladesh to _Soudi Arabia_ *H.E. Dr. Mohammad Javed
+   Patwary, BPM (Bar) (Ambassador & Permanent Representative to OIC)*
  - Ambassador of Bangladesh to _Srilanka_ *Tareq Md Ariful Islam*
  - Ambassador of Bangladesh to _Pakisthan_ *Md. Ruhul Alam Siddique*
 
