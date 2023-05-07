@@ -1,7 +1,7 @@
 (global-display-line-numbers-mode)
 (setq org-startup-with-inline-images t)
 (add-to-list 'load-path "~/.emacs.d/custom")
-(add-to-list 'package-archives '("melpa" . "https://melpa.org/packages/") t)
+;;(add-to-list 'package-archives '("melpa" . "https://melpa.org/packages/") t)
 ;; Comment/uncomment this line to enable MELPA Stable if desired.  See `package-archive-priorities`
 ;; and `package-pinned-packages`. Most users will not need or want to do this.
 ;;(add-to-list 'package-archives '("melpa-stable" . "https://stable.melpa.org/packages/") t)
@@ -25,11 +25,11 @@
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
- '(default ((t (:inherit nil :stipple nil :background "#242424" :foreground "#f6f3e8" :inverse-video nil :box nil :strike-through nil :extend nil :overline nil :underline nil :slant normal :weight normal :height 170 :width normal :foundry "nil" :family "Noto Sans Mono"))))
+ '(default ((t (:inherit nil :stipple nil :background "#242424" :foreground "#f6f3e8" :inverse-video nil :box nil :strike-through nil :extend nil :overline nil :underline nil :slant normal :weight normal :height 180 :width normal :foundry "nil" :family "Noto Sans Mono"))))
  '(bold ((t (:foreground "light green"))))
  '(mode-line-emphasis ((t (:foreground "dark cyan" :weight bold))))
  '(underline ((t (:foreground "OrangeRed1")))))
-(add-to-list 'custom-theme-load-path "/Users/space-x/.emacs.d/themes")
+(add-to-list 'custom-theme-load-path "/Users/Space-X/.emacs.d/themes")
 ;; Comment/uncomment this line to enable MELPA Stable if desired.  See `package-archive-priorities`
 ;; and `package-pinned-packages`. Most users will not need or want to do this.
 ;;(add-to-list 'package-archives '("melpa-stable" . "https://stable.melpa.org/packages/") t)
@@ -49,8 +49,8 @@
 		  (interactive) 
 		  ( if (string-equal system-type "windows-nt" ) 
 		      (call-process-shell-command
-		       "C:/Users/50766/AppData/Local/Programs/Git/git-bash.exe"
-		       "C:/Users/50766/Desktop/notes/upload.sh" (get-buffer-create "Git Output") t ) 
+		       "C:/Program Files/Git/git-bash.exe"
+		       "./upload.sh" (get-buffer-create "Git Output") t ) 
 		    (call-process-shell-command  "~/Desktop/notes/upload.sh" nil (get-buffer-create
 										  "Git Output") t))))
 (tool-bar-mode -1)
@@ -73,11 +73,11 @@
   (global-display-line-numbers-mode) 
   (delete-other-windows) 
   (if (string-equal system-type "windows-nt" ) 
-      (find-file "C:/Users/50766/Desktop/notes/index.org" nil) 
+      (find-file "C:/Users/Space-X/Desktop/notes/index.org" nil) 
     (find-file "~/Desktop/notes/index.org" nil)) 
   (split-window-right 22) 
   (if (string-equal system-type "windows-nt" ) 
-      (find-file-other-window "C:/Users/50766/Desktop/notes/data.org" nil) 
+      (find-file-other-window "C:/Users/Space-X/Desktop/notes/data.org" nil) 
     (find-file-other-window "~/Desktop/notes/data.org" nil)))
 
 (add-hook 'after-init-file  (my-init-config))
@@ -87,11 +87,11 @@
 		  (interactive) 
 		  (delete-other-windows) 
 		  (if (string-equal system-type "windows-nt" ) 
-		      (find-file "C:/Users/50766/Desktop/notes/index.org" nil) 
+		      (find-file "C:/Users/Space-X/Desktop/notes/index.org" nil) 
 		    (find-file "~/Desktop/notes/index.org" nil)) 
 		  (split-window-right 22) 
 		  (if (string-equal system-type "windows-nt" ) 
-		      (find-file-other-window "C:/Users/50766/Desktop/notes/data.org" nil) 
+		      (find-file-other-window "C:/Users/Space-X/Desktop/notes/data.org" nil) 
 		    (find-file-other-window "~/Desktop/notes/data.org" nil))))
 
 
@@ -166,3 +166,14 @@
   (interactive "r" )
   (if(= start end)()())
   )
+
+ (setq pixel-scroll-precision-large-scroll-height 10.0)
+ ;; scroll one line at a time (less "jumpy" than defaults)
+    
+    (setq mouse-wheel-scroll-amount '(1 ((shift) . 1))) ;; one line at a time
+    
+    (setq mouse-wheel-progressive-speed nil) ;; don't accelerate scrolling
+    
+    (setq mouse-wheel-follow-mouse 't) ;; scroll window under mouse
+    
+    (setq scroll-step 1) ;; keyboard scroll one line at a time
