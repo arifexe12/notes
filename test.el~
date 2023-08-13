@@ -1,0 +1,10 @@
+
+
+(require 'emacs)
+
+(setq value (read-from-minibuffer "Enter Name :" nil nil nil 0 "no value" nil))
+
+(message "Inputted Value Is : %s" value)
+
+(let ( (mark nil))
+  (dolist (mark mark-ring) (message "\n Mark Is : %s" mark)))

@@ -6843,3 +6843,13 @@ policies, its role in the world cannot be ignored.
 15. [X]  আইসিটিতে সরকারের উদ্যোগ গুলা বলুন
 16. [X]  আইসিটির সেবা প্রদান উন্নত করতে করনীয় কি ?
 17. [X]  NIS সমন্ধে শুনেছেন ? 
+
+* Git Shortcuts
+- Creating New Branch
+  #+begin_src sh
+    git checkout -b <branch_name>
+  #+end_src
+- Tracking New Branch
+  #+begin_src sh
+    git branch -u <remote_branch_name>
+  #+end_src

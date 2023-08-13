@@ -1,0 +1,4 @@
+cd ~/Desktop/notes/
+
+echo $(date) >> output.txt
+
