@@ -1,0 +1,8 @@
+*.* 
+!data.org
+!index.org
+!.emacs
+!upload.sh
+!screencast
+!org-bullets.el
+!.gitignore
